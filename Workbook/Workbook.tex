@@ -13,6 +13,8 @@
 \usepackage[dvipsnames]{xcolor}
 \usepackage{tcolorbox}
 
+\usepackage{nopageno}
+
 \colorlet{LightGray}{White!90!Periwinkle}
 \colorlet{LightOrange}{Orange!15}
 \colorlet{LightGreen}{Green!15}
@@ -76,6 +78,7 @@
 % Cover Page and ToC
 % ------------------------------------------------------------------------------
 
+
 \title{ \normalsize \textsc{}
 		\\ [2.0cm]
 		\HRule{1.5pt} \\
@@ -88,22 +91,35 @@ American Institute of Vedic Studies \\
 Vedic Astrology and Ayurveda \\
 Copyright ©1985-2021 }
 
-\maketitle
-\newpage
 
-\tableofcontents
+\maketitle
+\thispagestyle{empty}
+
 \newpage
+\pagestyle{empty}
+\tableofcontents
+
+\newpage
+\pagestyle{plain}
 
 % ------------------------------------------------------------------------------
+
+\setcounter{page}{1}
+
 \include{sections/section1.tex}
+\newpage
 
 \include{sections/section2.tex}
+\newpage
 
 \include{sections/section3.tex}
+\newpage
 
 \include{sections/section4.tex}
+\newpage
 
 \include{sections/section5.tex}
+\newpage
 
 %\include{sections/section6.tex}
 

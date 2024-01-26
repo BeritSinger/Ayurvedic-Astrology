@@ -1,151 +1,151 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}WORKBOOK LESSON 1 WORKBOOK AND CHART EXAMINATION}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}READING NORTH AND SOUTH INDIAN CHARTS}{4}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Workbook Testing – Study Questions Only}{4}{subsubsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.2}The North Indian Chart and Examination of the Houses}{5}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}Sample North Indian Chart}{5}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}The North Indian Moon Chart}{7}{subsubsection.1.2.2}%
-\contentsline {subsubsubsection}{\numberline {1.2.2.1}Angular Houses}{8}{subsubsubsection.1.2.2.1}%
-\contentsline {subsubsubsection}{\numberline {1.2.2.2}Trine Houses}{8}{subsubsubsection.1.2.2.2}%
-\contentsline {subsubsubsection}{\numberline {1.2.2.3}Raja Yoga}{8}{subsubsubsection.1.2.2.3}%
-\contentsline {subsubsubsection}{\numberline {1.2.2.4}Duhsthanas}{8}{subsubsubsection.1.2.2.4}%
-\contentsline {subsubsubsection}{\numberline {1.2.2.5}Upachaya and Apachaya Houses}{9}{subsubsubsection.1.2.2.5}%
-\contentsline {subsection}{\numberline {1.3}The South Indian Chart and Examination of the Signs}{9}{subsection.1.3}%
-\contentsline {subsubsection}{\numberline {1.3.1}Sample South Indian Chart}{10}{subsubsection.1.3.1}%
-\contentsline {subsubsubsection}{\numberline {1.3.1.1}Referred Houses}{10}{subsubsubsection.1.3.1.1}%
-\contentsline {section}{\numberline {2}WORKBOOK LESSON 2 CHART JUDGMENT}{12}{section.2}%
-\contentsline {subsection}{\numberline {2.1}House Location of Natural Benefics and Malefics}{12}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}NATURAL BENEFICS}{12}{subsubsection.2.1.1}%
-\contentsline {paragraph}{In Angles and Trines}{12}{section*.1}%
-\contentsline {paragraph}{Angles}{12}{section*.2}%
-\contentsline {paragraph}{Trines}{13}{section*.3}%
-\contentsline {paragraph}{In Duhsthanas}{13}{section*.4}%
-\contentsline {paragraph}{Own Sign and Exaltation}{13}{section*.5}%
-\contentsline {paragraph}{House Location of Natural Benefics}{13}{section*.6}%
-\contentsline {paragraph}{Temporal Benefics and Malefics}{14}{section*.7}%
-\contentsline {subsection}{\numberline {2.2}NATURAL MALEFICS}{14}{subsection.2.2}%
-\contentsline {paragraph}{Upachaya Houses}{14}{section*.8}%
-\contentsline {paragraph}{Angles and Trines}{14}{section*.9}%
-\contentsline {paragraph}{Temporal Lordship}{15}{section*.10}%
-\contentsline {paragraph}{Duhsthanas and Other Houses}{15}{section*.11}%
-\contentsline {paragraph}{Rahu and Ketu}{15}{section*.12}%
-\contentsline {paragraph}{House Location of Natural Malefics}{16}{section*.13}%
-\contentsline {subsection}{\numberline {2.3}House Lords }{16}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Raja Yoga/ Trinal Lords}{16}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Maraka Planets}{16}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Ripening of Maraka Planets}{17}{subsubsection.2.3.3}%
-\contentsline {paragraph}{Maraka Planets and their Strength}{17}{section*.14}%
-\contentsline {paragraph}{Malefic Lords}{17}{section*.15}%
-\contentsline {paragraph}{Summary of Benefic Lords: Factors that increase benefic status}{17}{section*.16}%
-\contentsline {paragraph}{Summary of Malefic Lords: Factors that increase malefic status}{18}{section*.17}%
-\contentsline {subsubsection}{\numberline {2.3.4}Planetary Friendship and Enmity}{18}{subsubsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.5}Priority of Factors}{19}{subsubsection.2.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.6}Use of Navamsha}{19}{subsubsection.2.3.6}%
-\contentsline {subsubsection}{\numberline {2.3.7}Temporal and Natural Status of Planets}{20}{subsubsection.2.3.7}%
-\contentsline {subsubsection}{\numberline {2.3.8}Referred Houses}{20}{subsubsection.2.3.8}%
-\contentsline {subsubsection}{\numberline {2.3.9}Yogas}{20}{subsubsection.2.3.9}%
-\contentsline {subsubsection}{\numberline {2.3.10}Combust}{20}{subsubsection.2.3.10}%
-\contentsline {paragraph}{Larger orbs of Combust}{21}{section*.18}%
-\contentsline {subsubsection}{\numberline {2.3.11}Retrograde}{21}{subsubsection.2.3.11}%
-\contentsline {subsection}{\numberline {2.4}Example Chart}{21}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Positions From the Moon}{23}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Positions from the Navamsha}{24}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Dashas and Bhuktis}{24}{subsubsection.2.4.3}%
-\contentsline {section}{\numberline {3}WORKBOOK LESSON 3 THE TWELVE ASCENDANTS AND SAMPLE CHARTS}{25}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Aries Ascendant Chart}{25}{subsection.3.1}%
-\contentsline {paragraph}{Nature of Aries Ascendant}{25}{section*.19}%
-\contentsline {subsection}{\numberline {3.2}Taurus Ascendant Chart}{27}{subsection.3.2}%
-\contentsline {paragraph}{Nature of Taurus Ascendant}{27}{section*.20}%
-\contentsline {paragraph}{Indications of Sample Chart}{27}{section*.21}%
-\contentsline {paragraph}{Positions from the Moon Sign}{29}{section*.22}%
-\contentsline {paragraph}{The Navamsha}{29}{section*.23}%
-\contentsline {subsection}{\numberline {3.3}Gemini Ascendant Chart}{29}{subsection.3.3}%
-\contentsline {paragraph}{Nature of Gemini Ascendant}{29}{section*.24}%
-\contentsline {paragraph}{Indications of Sample Chart}{29}{section*.25}%
-\contentsline {paragraph}{Positions From the Moon}{31}{section*.26}%
-\contentsline {subsection}{\numberline {3.4}Cancer Ascendant Chart}{32}{subsection.3.4}%
-\contentsline {paragraph}{Nature of Cancer Ascendant}{32}{section*.27}%
-\contentsline {paragraph}{Indications of Sample Chart}{32}{section*.28}%
-\contentsline {paragraph}{Positions from the Moon}{33}{section*.29}%
-\contentsline {paragraph}{Navamsha}{33}{section*.30}%
-\contentsline {subsection}{\numberline {3.5}Leo Ascendant Chart}{34}{subsection.3.5}%
-\contentsline {paragraph}{Nature of Leo Ascendant}{34}{section*.31}%
-\contentsline {paragraph}{Indications of Sample Chart}{34}{section*.32}%
-\contentsline {paragraph}{From the Moon Sign}{35}{section*.33}%
-\contentsline {paragraph}{Navamsha}{35}{section*.34}%
-\contentsline {paragraph}{Additional Notes}{36}{section*.35}%
-\contentsline {subsection}{\numberline {3.6}Virgo Ascendant Chart}{36}{subsection.3.6}%
-\contentsline {paragraph}{Nature of Virgo Ascendant}{36}{section*.36}%
-\contentsline {paragraph}{Indications of Sample Chart}{36}{section*.37}%
-\contentsline {paragraph}{Positions from the Moon}{37}{section*.38}%
-\contentsline {paragraph}{Navamsha}{38}{section*.39}%
-\contentsline {subsection}{\numberline {3.7}Libra Ascendant Chart}{38}{subsection.3.7}%
-\contentsline {paragraph}{Nature of Libra Ascendant}{38}{section*.40}%
-\contentsline {paragraph}{Indications of Sample Chart}{39}{section*.41}%
-\contentsline {paragraph}{Positions from the Moon}{39}{section*.42}%
-\contentsline {paragraph}{Navamsha}{40}{section*.43}%
-\contentsline {subsection}{\numberline {3.8}Scorpio Ascendant Chart}{40}{subsection.3.8}%
-\contentsline {paragraph}{Nature of Scorpio Ascendant}{40}{section*.44}%
-\contentsline {paragraph}{Indications of Sample Chart}{40}{section*.45}%
-\contentsline {paragraph}{Positions from the Moon}{41}{section*.46}%
-\contentsline {paragraph}{Additional Notes}{42}{section*.47}%
-\contentsline {subsection}{\numberline {3.9}Sagittarius Ascendant Chart}{42}{subsection.3.9}%
-\contentsline {paragraph}{Nature of Sagittarius Ascendant}{42}{section*.48}%
-\contentsline {paragraph}{Indications of Sample Chart}{42}{section*.49}%
-\contentsline {paragraph}{Positions From the Moon}{44}{section*.50}%
-\contentsline {paragraph}{The Navamsha}{44}{section*.51}%
-\contentsline {subsection}{\numberline {3.10}Capricorn Ascendant Chart}{44}{subsection.3.10}%
-\contentsline {paragraph}{Nature of Capricorn Ascendant}{44}{section*.52}%
-\contentsline {paragraph}{Indications of Sample Chart}{44}{section*.53}%
-\contentsline {paragraph}{Positions from the Moon}{46}{section*.54}%
-\contentsline {paragraph}{Navamsha}{46}{section*.55}%
-\contentsline {subsection}{\numberline {3.11}Aquarius Ascendant Chart}{46}{subsection.3.11}%
-\contentsline {paragraph}{Nature of Aquarius Ascendant}{46}{section*.56}%
-\contentsline {paragraph}{Indications of Sample Chart}{47}{section*.57}%
-\contentsline {paragraph}{Positions from the Moon}{48}{section*.58}%
-\contentsline {paragraph}{The Navamsha}{48}{section*.59}%
-\contentsline {paragraph}{Additional Notes}{48}{section*.60}%
-\contentsline {subsection}{\numberline {3.12}Pisces Ascendant Chart}{49}{subsection.3.12}%
-\contentsline {paragraph}{Nature of Pisces Ascendant}{49}{section*.61}%
-\contentsline {paragraph}{Indications of Sample Chart}{49}{section*.62}%
-\contentsline {paragraph}{Positions from the Moon}{50}{section*.63}%
-\contentsline {paragraph}{Navamsha}{50}{section*.64}%
-\contentsline {paragraph}{Additional Notes}{51}{section*.65}%
-\contentsline {section}{\numberline {4}WORKBOOK LESSON 4 RAJA YOGA}{52}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Raja Yoga Planets and Divisional Charts}{53}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Raja Yoga Example Chart}{53}{subsection.4.2}%
-\contentsline {paragraph}{The Birthchart}{54}{figure.17}%
-\contentsline {paragraph}{From the Ascendant}{54}{section*.67}%
-\contentsline {paragraph}{From the Moon}{55}{section*.68}%
-\contentsline {paragraph}{Navamsha}{55}{section*.69}%
-\contentsline {paragraph}{Drekkana}{55}{section*.70}%
-\contentsline {paragraph}{Dashamsha}{56}{section*.71}%
-\contentsline {paragraph}{Dashas}{56}{section*.72}%
-\contentsline {subsection}{\numberline {4.3}Raja Yoga Chart 2 Political Raja Yoga}{57}{subsection.4.3}%
-\contentsline {section}{\numberline {5}WORKBOOK LESSON 5 AYURVEDIC CONSTITUTION BODY AND MIND}{60}{section.5}%
-\contentsline {subsection}{\numberline {5.1}The Ascendant and Basic Birth Chart}{60}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Ascendant Lord}{61}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}House Position}{62}{subsubsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.2}Sixth and Eighth Houses}{62}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Sixth and Eighth Lords}{62}{subsubsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.3}The Moon}{63}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}House Position of the Moon}{63}{subsubsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.4}Signs and Disease Potential}{64}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Elements of Signs}{64}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Planetary Rulership of Signs}{64}{subsubsection.5.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.3}Sensitive Signs}{65}{subsubsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.5}Dashas and Transits}{65}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Special Factors}{66}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Retrograde Planets}{66}{subsubsection.5.6.1}%
-\contentsline {subsubsection}{\numberline {5.6.2}Rahu-Ketu Axis}{66}{subsubsection.5.6.2}%
-\contentsline {subsection}{\numberline {5.7}Nature of Health Problems}{66}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Psychological Afflictions}{67}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}Ayurvedic Constitutional Strength}{68}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}Health Complications}{68}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}Psychological Aspects of Vedic Astrology}{69}{subsection.5.11}%
-\contentsline {subsubsection}{\numberline {5.11.1}Key Factors of Psychology}{69}{subsubsection.5.11.1}%
-\contentsline {subsubsection}{\numberline {5.11.2}Additional Considerations}{69}{subsubsection.5.11.2}%
-\contentsline {subsubsection}{\numberline {5.11.3}Psychological Type Considerations}{70}{subsubsection.5.11.3}%
-\contentsline {subsubsection}{\numberline {5.11.4}Factors of Disturbed Psychology}{70}{subsubsection.5.11.4}%
-\contentsline {subsubsection}{\numberline {5.11.5}Timing of Psychological Issues Via the Dashas – Sensitive Dashas for the Mind}{71}{subsubsection.5.11.5}%
-\contentsline {subsubsection}{\numberline {5.11.6}Difficult Transits}{72}{subsubsection.5.11.6}%
+\contentsline {section}{\numberline {1}WORKBOOK LESSON 1 WORKBOOK AND CHART EXAMINATION}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}READING NORTH AND SOUTH INDIAN CHARTS}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Workbook Testing – Study Questions Only}{1}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}The North Indian Chart and Examination of the Houses}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Sample North Indian Chart}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}The North Indian Moon Chart}{4}{subsubsection.1.2.2}%
+\contentsline {subsubsubsection}{\numberline {1.2.2.1}Angular Houses}{5}{subsubsubsection.1.2.2.1}%
+\contentsline {subsubsubsection}{\numberline {1.2.2.2}Trine Houses}{5}{subsubsubsection.1.2.2.2}%
+\contentsline {subsubsubsection}{\numberline {1.2.2.3}Raja Yoga}{5}{subsubsubsection.1.2.2.3}%
+\contentsline {subsubsubsection}{\numberline {1.2.2.4}Duhsthanas}{5}{subsubsubsection.1.2.2.4}%
+\contentsline {subsubsubsection}{\numberline {1.2.2.5}Upachaya and Apachaya Houses}{6}{subsubsubsection.1.2.2.5}%
+\contentsline {subsection}{\numberline {1.3}The South Indian Chart and Examination of the Signs}{6}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Sample South Indian Chart}{7}{subsubsection.1.3.1}%
+\contentsline {subsubsubsection}{\numberline {1.3.1.1}Referred Houses}{7}{subsubsubsection.1.3.1.1}%
+\contentsline {section}{\numberline {2}WORKBOOK LESSON 2 CHART JUDGMENT}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}House Location of Natural Benefics and Malefics}{9}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}NATURAL BENEFICS}{9}{subsubsection.2.1.1}%
+\contentsline {paragraph}{In Angles and Trines}{9}{section*.1}%
+\contentsline {paragraph}{Angles}{9}{section*.2}%
+\contentsline {paragraph}{Trines}{10}{section*.3}%
+\contentsline {paragraph}{In Duhsthanas}{10}{section*.4}%
+\contentsline {paragraph}{Own Sign and Exaltation}{10}{section*.5}%
+\contentsline {paragraph}{House Location of Natural Benefics}{10}{section*.6}%
+\contentsline {paragraph}{Temporal Benefics and Malefics}{11}{section*.7}%
+\contentsline {subsubsection}{\numberline {2.1.2}NATURAL MALEFICS}{11}{subsubsection.2.1.2}%
+\contentsline {paragraph}{Upachaya Houses}{11}{section*.8}%
+\contentsline {paragraph}{Angles and Trines}{11}{section*.9}%
+\contentsline {paragraph}{Temporal Lordship}{12}{section*.10}%
+\contentsline {paragraph}{Duhsthanas and Other Houses}{12}{section*.11}%
+\contentsline {paragraph}{Rahu and Ketu}{12}{section*.12}%
+\contentsline {paragraph}{House Location of Natural Malefics}{13}{section*.13}%
+\contentsline {subsection}{\numberline {2.2}House Lords }{13}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Raja Yoga/ Trinal Lords}{13}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Maraka Planets}{13}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Ripening of Maraka Planets}{14}{subsubsection.2.2.3}%
+\contentsline {paragraph}{Maraka Planets and their Strength}{14}{section*.14}%
+\contentsline {paragraph}{Malefic Lords}{14}{section*.15}%
+\contentsline {paragraph}{Summary of Benefic Lords: Factors that increase benefic status}{14}{section*.16}%
+\contentsline {paragraph}{Summary of Malefic Lords: Factors that increase malefic status}{15}{section*.17}%
+\contentsline {subsubsection}{\numberline {2.2.4}Planetary Friendship and Enmity}{15}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Priority of Factors}{16}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Use of Navamsha}{16}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}Temporal and Natural Status of Planets}{17}{subsubsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.2.8}Referred Houses}{17}{subsubsection.2.2.8}%
+\contentsline {subsubsection}{\numberline {2.2.9}Yogas}{17}{subsubsection.2.2.9}%
+\contentsline {subsubsection}{\numberline {2.2.10}Combust}{17}{subsubsection.2.2.10}%
+\contentsline {paragraph}{Larger orbs of Combust}{18}{section*.18}%
+\contentsline {subsubsection}{\numberline {2.2.11}Retrograde}{18}{subsubsection.2.2.11}%
+\contentsline {subsection}{\numberline {2.3}Example Chart}{18}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Positions From the Moon}{20}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Positions from the Navamsha}{21}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Dashas and Bhuktis}{21}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}WORKBOOK LESSON 3 THE TWELVE ASCENDANTS AND SAMPLE CHARTS}{22}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Aries Ascendant Chart}{22}{subsection.3.1}%
+\contentsline {paragraph}{Nature of Aries Ascendant}{22}{section*.19}%
+\contentsline {subsection}{\numberline {3.2}Taurus Ascendant Chart}{24}{subsection.3.2}%
+\contentsline {paragraph}{Nature of Taurus Ascendant}{24}{section*.20}%
+\contentsline {paragraph}{Indications of Sample Chart}{24}{section*.21}%
+\contentsline {paragraph}{Positions from the Moon Sign}{26}{section*.22}%
+\contentsline {paragraph}{The Navamsha}{26}{section*.23}%
+\contentsline {subsection}{\numberline {3.3}Gemini Ascendant Chart}{26}{subsection.3.3}%
+\contentsline {paragraph}{Nature of Gemini Ascendant}{26}{section*.24}%
+\contentsline {paragraph}{Indications of Sample Chart}{26}{section*.25}%
+\contentsline {paragraph}{Positions From the Moon}{28}{section*.26}%
+\contentsline {subsection}{\numberline {3.4}Cancer Ascendant Chart}{29}{subsection.3.4}%
+\contentsline {paragraph}{Nature of Cancer Ascendant}{29}{section*.27}%
+\contentsline {paragraph}{Indications of Sample Chart}{29}{section*.28}%
+\contentsline {paragraph}{Positions from the Moon}{30}{section*.29}%
+\contentsline {paragraph}{Navamsha}{30}{section*.30}%
+\contentsline {subsection}{\numberline {3.5}Leo Ascendant Chart}{31}{subsection.3.5}%
+\contentsline {paragraph}{Nature of Leo Ascendant}{31}{section*.31}%
+\contentsline {paragraph}{Indications of Sample Chart}{31}{section*.32}%
+\contentsline {paragraph}{From the Moon Sign}{32}{section*.33}%
+\contentsline {paragraph}{Navamsha}{33}{section*.34}%
+\contentsline {paragraph}{Additional Notes}{33}{section*.35}%
+\contentsline {subsection}{\numberline {3.6}Virgo Ascendant Chart}{33}{subsection.3.6}%
+\contentsline {paragraph}{Nature of Virgo Ascendant}{33}{section*.36}%
+\contentsline {paragraph}{Indications of Sample Chart}{33}{section*.37}%
+\contentsline {paragraph}{Positions from the Moon}{35}{section*.38}%
+\contentsline {paragraph}{Navamsha}{35}{section*.39}%
+\contentsline {subsection}{\numberline {3.7}Libra Ascendant Chart}{35}{subsection.3.7}%
+\contentsline {paragraph}{Nature of Libra Ascendant}{35}{section*.40}%
+\contentsline {paragraph}{Indications of Sample Chart}{35}{section*.41}%
+\contentsline {paragraph}{Positions from the Moon}{37}{section*.42}%
+\contentsline {paragraph}{Navamsha}{37}{section*.43}%
+\contentsline {subsection}{\numberline {3.8}Scorpio Ascendant Chart}{37}{subsection.3.8}%
+\contentsline {paragraph}{Nature of Scorpio Ascendant}{37}{section*.44}%
+\contentsline {paragraph}{Indications of Sample Chart}{37}{section*.45}%
+\contentsline {paragraph}{Positions from the Moon}{39}{section*.46}%
+\contentsline {paragraph}{Additional Notes}{39}{section*.47}%
+\contentsline {subsection}{\numberline {3.9}Sagittarius Ascendant Chart}{39}{subsection.3.9}%
+\contentsline {paragraph}{Nature of Sagittarius Ascendant}{39}{section*.48}%
+\contentsline {paragraph}{Indications of Sample Chart}{39}{section*.49}%
+\contentsline {paragraph}{Positions From the Moon}{41}{section*.50}%
+\contentsline {paragraph}{The Navamsha}{41}{section*.51}%
+\contentsline {subsection}{\numberline {3.10}Capricorn Ascendant Chart}{41}{subsection.3.10}%
+\contentsline {paragraph}{Nature of Capricorn Ascendant}{41}{section*.52}%
+\contentsline {paragraph}{Indications of Sample Chart}{42}{section*.53}%
+\contentsline {paragraph}{Positions from the Moon}{43}{section*.54}%
+\contentsline {paragraph}{Navamsha}{43}{section*.55}%
+\contentsline {subsection}{\numberline {3.11}Aquarius Ascendant Chart}{44}{subsection.3.11}%
+\contentsline {paragraph}{Nature of Aquarius Ascendant}{44}{section*.56}%
+\contentsline {paragraph}{Indications of Sample Chart}{45}{section*.57}%
+\contentsline {paragraph}{Positions from the Moon}{45}{section*.58}%
+\contentsline {paragraph}{The Navamsha}{45}{section*.59}%
+\contentsline {paragraph}{Additional Notes}{46}{section*.60}%
+\contentsline {subsection}{\numberline {3.12}Pisces Ascendant Chart}{46}{subsection.3.12}%
+\contentsline {paragraph}{Nature of Pisces Ascendant}{46}{section*.61}%
+\contentsline {paragraph}{Indications of Sample Chart}{46}{section*.62}%
+\contentsline {paragraph}{Positions from the Moon}{47}{section*.63}%
+\contentsline {paragraph}{Navamsha}{48}{section*.64}%
+\contentsline {paragraph}{Additional Notes}{48}{section*.65}%
+\contentsline {section}{\numberline {4}WORKBOOK LESSON 4 RAJA YOGA}{49}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Raja Yoga Planets and Divisional Charts}{50}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Raja Yoga Example Chart}{50}{subsection.4.2}%
+\contentsline {paragraph}{The Birthchart}{51}{figure.17}%
+\contentsline {paragraph}{From the Ascendant}{51}{section*.67}%
+\contentsline {paragraph}{From the Moon}{52}{section*.68}%
+\contentsline {paragraph}{Navamsha}{52}{section*.69}%
+\contentsline {paragraph}{Drekkana}{52}{section*.70}%
+\contentsline {paragraph}{Dashamsha}{53}{section*.71}%
+\contentsline {paragraph}{Dashas}{53}{section*.72}%
+\contentsline {subsection}{\numberline {4.3}Raja Yoga Chart 2 Political Raja Yoga}{54}{subsection.4.3}%
+\contentsline {section}{\numberline {5}WORKBOOK LESSON 5 AYURVEDIC CONSTITUTION BODY AND MIND}{57}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Ascendant and Basic Birth Chart}{57}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Ascendant Lord}{58}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}House Position}{59}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Sixth and Eighth Houses}{59}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Sixth and Eighth Lords}{59}{subsubsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.3}The Moon}{60}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}House Position of the Moon}{60}{subsubsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.4}Signs and Disease Potential}{61}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Elements of Signs}{61}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Planetary Rulership of Signs}{61}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Sensitive Signs}{62}{subsubsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.5}Dashas and Transits}{62}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Special Factors}{63}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Retrograde Planets}{63}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Rahu-Ketu Axis}{63}{subsubsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.7}Nature of Health Problems}{63}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Psychological Afflictions}{64}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Ayurvedic Constitutional Strength}{65}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Health Complications}{65}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Psychological Aspects of Vedic Astrology}{66}{subsection.5.11}%
+\contentsline {subsubsection}{\numberline {5.11.1}Key Factors of Psychology}{66}{subsubsection.5.11.1}%
+\contentsline {subsubsection}{\numberline {5.11.2}Additional Considerations}{66}{subsubsection.5.11.2}%
+\contentsline {subsubsection}{\numberline {5.11.3}Psychological Type Considerations}{67}{subsubsection.5.11.3}%
+\contentsline {subsubsection}{\numberline {5.11.4}Factors of Disturbed Psychology}{67}{subsubsection.5.11.4}%
+\contentsline {subsubsection}{\numberline {5.11.5}Timing of Psychological Issues Via the Dashas – Sensitive Dashas for the Mind}{68}{subsubsection.5.11.5}%
+\contentsline {subsubsection}{\numberline {5.11.6}Difficult Transits}{69}{subsubsection.5.11.6}%

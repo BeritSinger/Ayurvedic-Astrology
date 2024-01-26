@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.15)  17 JUL 2023 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.15)  17 JUL 2023 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -382,6 +382,13 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
+
+! LaTeX Error: File `nopageno.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
 (/usr/local/texlive/2023basic/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box55
@@ -405,24 +412,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (./sections/section3.aux) (./sections/section4.aux) (./sections/section5.aux))
 \openout1 = `Workbook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 (/usr/local/texlive/2023basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -482,18 +489,18 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 73.
+Package hyperref Info: Link coloring OFF on input line 75.
 (./Workbook.out) (./Workbook.out)
 \@outlinefile=\write3
 \openout3 = `Workbook.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 92.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
 
 
 (/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 92.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
 
 
 (/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -519,7 +526,13 @@ Overfull \hbox (15.52425pt too wide) in paragraph at lines 3--3
 |[]\OT1/cmr/bx/n/14.4 WORKBOOK LES-SON 1 WORK-BOOK AND CHART
  []
 
-[4
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 
+      [1
 
 ]
 <pics/lesson-1-northchart1.jpg, id=420, 1234.6125pt x 1634.105pt>
@@ -531,14 +544,26 @@ Package pdftex.def Info: pics/lesson-1-northchart1.jpg  used on input line 86.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] [6 <./pics/lesson-1-northchart1.jpg>] [7] [8] [9]
-<pics/Lesson-1-southchart2.jpg, id=443, 1267.73625pt x 1636.1125pt>
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 
+       [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.112 
+       [3 <./pics/lesson-1-northchart1.jpg>] [4] [5] [6]
+<pics/Lesson-1-southchart2.jpg, id=441, 1267.73625pt x 1636.1125pt>
 File: pics/Lesson-1-southchart2.jpg Graphic file (type jpg)
 <use pics/Lesson-1-southchart2.jpg>
 Package pdftex.def Info: pics/Lesson-1-southchart2.jpg  used on input line 244.
 
 (pdftex.def)             Requested size: 284.52756pt x 367.18573pt.
- [10 <./pics/Lesson-1-southchart2.jpg>]) [11]
+ [7 <./pics/Lesson-1-southchart2.jpg>]) [8]
 \openout2 = `sections/section2.aux'.
 
  (./sections/section2.tex
@@ -546,12 +571,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
-[12
+[9
 
 
 
-] [13] [14] [15] [16] [17] [18] [19] [20]
-<pics/lesson-2-Sample-Chart-2.jpeg, id=536, 1261.71375pt x 1636.1125pt>
+] [10] [11] [12] [13] [14] [15] [16] [17]
+<pics/lesson-2-Sample-Chart-2.jpeg, id=534, 1261.71375pt x 1636.1125pt>
 File: pics/lesson-2-Sample-Chart-2.jpeg Graphic file (type jpg)
 <use pics/lesson-2-Sample-Chart-2.jpeg>
 Package pdftex.def Info: pics/lesson-2-Sample-Chart-2.jpeg  used on input line 
@@ -561,12 +586,12 @@ Package pdftex.def Info: pics/lesson-2-Sample-Chart-2.jpeg  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21] [22 <./pics/lesson-2-Sample-Chart-2.jpeg>] [23]) [24]
+[18] [19 <./pics/lesson-2-Sample-Chart-2.jpeg>] [20]) [21]
 \openout2 = `sections/section3.aux'.
 
 
 (./sections/section3.tex
-<pics/Aries-Ascendant.jpg, id=562, 1273.75874pt x 1634.105pt>
+<pics/Aries-Ascendant.jpg, id=560, 1273.75874pt x 1634.105pt>
 File: pics/Aries-Ascendant.jpg Graphic file (type jpg)
 <use pics/Aries-Ascendant.jpg>
 Package pdftex.def Info: pics/Aries-Ascendant.jpg  used on input line 23.
@@ -575,12 +600,12 @@ Package pdftex.def Info: pics/Aries-Ascendant.jpg  used on input line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25
+[22
 
 
 
-] [26 <./pics/Aries-Ascendant.jpg>]
-<pics/Taurus-Ascendant.jpg, id=575, 1275.76625pt x 1636.1125pt>
+] [23 <./pics/Aries-Ascendant.jpg>]
+<pics/Taurus-Ascendant.jpg, id=573, 1275.76625pt x 1636.1125pt>
 File: pics/Taurus-Ascendant.jpg Graphic file (type jpg)
 <use pics/Taurus-Ascendant.jpg>
 Package pdftex.def Info: pics/Taurus-Ascendant.jpg  used on input line 100.
@@ -589,8 +614,8 @@ Package pdftex.def Info: pics/Taurus-Ascendant.jpg  used on input line 100.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27] [28 <./pics/Taurus-Ascendant.jpg>]
-<pics/Gemini-Ascendant.jpg, id=587, 1259.70625pt x 1636.1125pt>
+[24] [25 <./pics/Taurus-Ascendant.jpg>]
+<pics/Gemini-Ascendant.jpg, id=585, 1259.70625pt x 1636.1125pt>
 File: pics/Gemini-Ascendant.jpg Graphic file (type jpg)
 <use pics/Gemini-Ascendant.jpg>
 Package pdftex.def Info: pics/Gemini-Ascendant.jpg  used on input line 176.
@@ -599,50 +624,44 @@ Package pdftex.def Info: pics/Gemini-Ascendant.jpg  used on input line 176.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29] [30 <./pics/Gemini-Ascendant.jpg>] [31]
-<pics/Cancer-Ascendant.jpg, id=607, 1259.70625pt x 1617.04124pt>
+[26] [27 <./pics/Gemini-Ascendant.jpg>] [28]
+<pics/Cancer-Ascendant.jpg, id=605, 1259.70625pt x 1617.04124pt>
 File: pics/Cancer-Ascendant.jpg Graphic file (type jpg)
 <use pics/Cancer-Ascendant.jpg>
 Package pdftex.def Info: pics/Cancer-Ascendant.jpg  used on input line 253.
 (pdftex.def)             Requested size: 284.52756pt x 365.225pt.
- [32 <./pics/Cancer-Ascendant.jpg>] [33]
-
-LaTeX Warning: File `pics/Leo-Ascendant.jpg' not found on input line 343.
-
-
-./sections/section3.tex:343: Package pdftex.def Error: File `pics/Leo-Ascendant
-.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.343 ...phics[width=10cm]{pics/Leo-Ascendant.jpg}
-                                                  
-? 
-[34] [35]
-
-LaTeX Warning: File `pics/Virgo-Ascendant.jpg' not found on input line 421.
+ [29 <./pics/Cancer-Ascendant.jpg>] [30]
+<pics/Leo-Ascendant.jpg, id=619, 1254.6875pt x 1629.08624pt>
+File: pics/Leo-Ascendant.jpg Graphic file (type jpg)
+<use pics/Leo-Ascendant.jpg>
+Package pdftex.def Info: pics/Leo-Ascendant.jpg  used on input line 343.
+(pdftex.def)             Requested size: 284.52756pt x 369.43695pt.
 
 
-./sections/section3.tex:421: Package pdftex.def Error: File `pics/Virgo-Ascenda
-nt.jpg' not found: using draft setting.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.421 ...ics[width=10cm]{pics/Virgo-Ascendant.jpg}
-                                                  
-? 
-[36] [37]
-<pics/Libra-Ascendant.jpg, id=649, 1263.72125pt x 1625.07124pt>
+[31] [32 <./pics/Leo-Ascendant.jpg>]
+<pics/Virgo-Ascendant.jpg, id=632, 1254.6875pt x 1613.02625pt>
+File: pics/Virgo-Ascendant.jpg Graphic file (type jpg)
+<use pics/Virgo-Ascendant.jpg>
+Package pdftex.def Info: pics/Virgo-Ascendant.jpg  used on input line 421.
+(pdftex.def)             Requested size: 284.52756pt x 365.79494pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33] [34 <./pics/Virgo-Ascendant.jpg>]
+<pics/Libra-Ascendant.jpg, id=647, 1263.72125pt x 1625.07124pt>
 File: pics/Libra-Ascendant.jpg Graphic file (type jpg)
 <use pics/Libra-Ascendant.jpg>
 Package pdftex.def Info: pics/Libra-Ascendant.jpg  used on input line 509.
 (pdftex.def)             Requested size: 284.52756pt x 365.87321pt.
- [38 <./pics/Libra-Ascendant.jpg>] [39]
-<pics/Scorpio-Ascendant.jpg, id=663, 1259.70625pt x 1631.09375pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35] [36 <./pics/Libra-Ascendant.jpg>]
+<pics/Scorpio-Ascendant.jpg, id=661, 1259.70625pt x 1631.09375pt>
 File: pics/Scorpio-Ascendant.jpg Graphic file (type jpg)
 <use pics/Scorpio-Ascendant.jpg>
 Package pdftex.def Info: pics/Scorpio-Ascendant.jpg  used on input line 594.
@@ -651,8 +670,8 @@ Package pdftex.def Info: pics/Scorpio-Ascendant.jpg  used on input line 594.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40] [41 <./pics/Scorpio-Ascendant.jpg>]
-<pics/Sagittarius-Ascendant.jpg, id=677, 1259.70625pt x 1634.105pt>
+[37] [38 <./pics/Scorpio-Ascendant.jpg>]
+<pics/Sagittarius-Ascendant.jpg, id=675, 1259.70625pt x 1634.105pt>
 File: pics/Sagittarius-Ascendant.jpg Graphic file (type jpg)
 <use pics/Sagittarius-Ascendant.jpg>
 Package pdftex.def Info: pics/Sagittarius-Ascendant.jpg  used on input line 665
@@ -662,43 +681,42 @@ Package pdftex.def Info: pics/Sagittarius-Ascendant.jpg  used on input line 665
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42] [43 <./pics/Sagittarius-Ascendant.jpg>]
-<pics/Capricorn-Ascendant.jpg, id=692, 1254.6875pt x 1631.09375pt>
+[39] [40 <./pics/Sagittarius-Ascendant.jpg>] [41]
+<pics/Capricorn-Ascendant.jpg, id=698, 1254.6875pt x 1631.09375pt>
 File: pics/Capricorn-Ascendant.jpg Graphic file (type jpg)
 <use pics/Capricorn-Ascendant.jpg>
 Package pdftex.def Info: pics/Capricorn-Ascendant.jpg  used on input line 739.
 (pdftex.def)             Requested size: 284.52756pt x 369.89221pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[44] [45 <./pics/Capricorn-Ascendant.jpg>]
-<pics/Aquarius-Ascendant.jpg, id=706, 1261.71375pt x 1629.08624pt>
+ [42 <./pics/Capricorn-Ascendant.jpg>] [43]
+<pics/Aquarius-Ascendant.jpg, id=711, 1261.71375pt x 1629.08624pt>
 File: pics/Aquarius-Ascendant.jpg Graphic file (type jpg)
 <use pics/Aquarius-Ascendant.jpg>
 Package pdftex.def Info: pics/Aquarius-Ascendant.jpg  used on input line 811.
 (pdftex.def)             Requested size: 284.52756pt x 367.37375pt.
- [46] [47 <./pics/Aquarius-Ascendant.jpg>] [48]
-<pics/Pisces-Ascendant.jpg, id=727, 1261.71375pt x 1631.09375pt>
+ [44 <./pics/Aquarius-Ascendant.jpg>] [45]
+<pics/Pisces-Ascendant.jpg, id=725, 1261.71375pt x 1631.09375pt>
 File: pics/Pisces-Ascendant.jpg Graphic file (type jpg)
 <use pics/Pisces-Ascendant.jpg>
 Package pdftex.def Info: pics/Pisces-Ascendant.jpg  used on input line 897.
 (pdftex.def)             Requested size: 284.52756pt x 367.82648pt.
- [49 <./pics/Pisces-Ascendant.jpg>] [50]) [51]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[46] [47 <./pics/Pisces-Ascendant.jpg>]) [48]
 \openout2 = `sections/section4.aux'.
 
-
-(./sections/section4.tex [52
+ (./sections/section4.tex [49
 
 
 
 ]
-<pics/Deepak-Chopra1.jpg, id=753, 1223.57124pt x 1601.985pt>
+<pics/Deepak-Chopra1.jpg, id=752, 1223.57124pt x 1601.985pt>
 File: pics/Deepak-Chopra1.jpg Graphic file (type jpg)
 <use pics/Deepak-Chopra1.jpg>
 Package pdftex.def Info: pics/Deepak-Chopra1.jpg  used on input line 65.
 (pdftex.def)             Requested size: 284.52756pt x 372.50656pt.
-<pics/Deepak-Chopra2.jpg, id=754, 1219.55624pt x 1629.08624pt>
+<pics/Deepak-Chopra2.jpg, id=753, 1219.55624pt x 1629.08624pt>
 File: pics/Deepak-Chopra2.jpg Graphic file (type jpg)
 <use pics/Deepak-Chopra2.jpg>
 Package pdftex.def Info: pics/Deepak-Chopra2.jpg  used on input line 72.
@@ -707,8 +725,8 @@ Package pdftex.def Info: pics/Deepak-Chopra2.jpg  used on input line 72.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53 <./pics/Deepak-Chopra1.jpg>] [54 <./pics/Deepak-Chopra2.jpg>] [55] [56]
-<pics/Mondale-1.jpg, id=781, 1265.72874pt x 1623.06375pt>
+[50 <./pics/Deepak-Chopra1.jpg>] [51 <./pics/Deepak-Chopra2.jpg>] [52] [53]
+<pics/Mondale-1.jpg, id=780, 1265.72874pt x 1623.06375pt>
 File: pics/Mondale-1.jpg Graphic file (type jpg)
 <use pics/Mondale-1.jpg>
 Package pdftex.def Info: pics/Mondale-1.jpg  used on input line 186.
@@ -717,32 +735,26 @@ Package pdftex.def Info: pics/Mondale-1.jpg  used on input line 186.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[57] [58 <./pics/Mondale-1.jpg>]) [59]
+[54] [55 <./pics/Mondale-1.jpg>]) [56]
 \openout2 = `sections/section5.aux'.
 
- (./sections/section5.tex [60
+ (./sections/section5.tex [57
 
 
 
-] [61]
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71]) [72] (./Workbook.aux
+] [58]
+[59] [60] [61] [62] [63] [64] [65] [66] [67] [68]) [69] (./Workbook.aux
 (./sections/section1.aux) (./sections/section2.aux) (./sections/section3.aux)
 (./sections/section4.aux) (./sections/section5.aux))
-
-Package rerunfilecheck Warning: File `Workbook.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Workbook.out':
-(rerunfilecheck)             Before: 48CADC4A067FC58FB0F3E140CD37A9FD;15151
-(rerunfilecheck)             After:  384553E772BA636DEBDC8CD90494AFE4;15332.
+Package rerunfilecheck Info: File `Workbook.out' has not changed.
+(rerunfilecheck)             Checksum: 1F1FA83A7549EB49F2F7F0C855049284;15342.
  ) 
 Here is how much of TeX's memory you used:
- 12652 strings out of 477476
- 202327 string characters out of 5824244
+ 12590 strings out of 477476
+ 200634 string characters out of 5824244
  1866388 words of memory out of 5000000
- 32329 multiletter control sequences out of 15000+600000
- 521263 words of font info for 67 fonts, out of 8000000 for 9000
+ 32283 multiletter control sequences out of 15000+600000
+ 521095 words of font info for 66 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  75i,6n,76p,1065b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/beritsinger/Library/texlive/2023basic/texmf-var/fonts/pk/ljfour/jkna
@@ -750,12 +762,11 @@ ppen/ec/tcrm1200.600pk></usr/local/texlive/2023basic/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023basic/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023basic/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Workbook.pdf (72 pages, 5802214 bytes).
+s/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Workbook.pdf (72 pages, 6480735 bytes).
 PDF statistics:
- 999 PDF objects out of 1000 (max. 8388607)
- 889 compressed objects within 9 object streams
- 325 named destinations out of 1000 (max. 500000)
- 705 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 992 PDF objects out of 1000 (max. 8388607)
+ 882 compressed objects within 9 object streams
+ 322 named destinations out of 1000 (max. 500000)
+ 715 words of extra memory for PDF output out of 10000 (max. 10000000)
 
