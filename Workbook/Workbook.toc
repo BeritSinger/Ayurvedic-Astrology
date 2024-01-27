@@ -149,3 +149,69 @@
 \contentsline {subsubsection}{\numberline {5.11.4}Factors of Disturbed Psychology}{67}{subsubsection.5.11.4}%
 \contentsline {subsubsection}{\numberline {5.11.5}Timing of Psychological Issues Via the Dashas – Sensitive Dashas for the Mind}{68}{subsubsection.5.11.5}%
 \contentsline {subsubsection}{\numberline {5.11.6}Difficult Transits}{69}{subsubsection.5.11.6}%
+\contentsline {section}{\numberline {6}MARAKA PLANETS – PLANETS THAT CAN CAUSE DEATH AND INJURY}{70}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Referred Houses}{70}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Example Charts}{71}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Chart 1}{71}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}More on Referred Houses}{72}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Chart 2}{73}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Caution to the Astrologer}{74}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}Chart 3: A Chart of Great Longevity}{75}{subsubsection.6.2.5}%
+\contentsline {section}{\numberline {7}CHART RECTIFICATION}{78}{section.7}%
+\contentsline {subsection}{\numberline {7.1}NEED TO ASCERTAIN CORRECTNESS OF BIRTH DATA}{78}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}CHART VERIFICATION}{79}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}METHODS OF RECTIFICATION}{79}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}1) MECHANICAL METHODS OF RECTIFICATION}{79}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}2) INTERPRETIVE METHODS OF RECTIFICATION}{80}{subsubsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.4}INFORMATION NECESSARY FOR RECTIFICATION}{80}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}INTERPRETATIVE METHODS OF RECTIFICATION CONSIDERATIONS}{81}{subsection.7.5}%
+\contentsline {subsubsection}{\numberline {7.5.1}PARAMETERS}{81}{subsubsection.7.5.1}%
+\contentsline {subsubsection}{\numberline {7.5.2}ASCENDANT}{81}{subsubsection.7.5.2}%
+\contentsline {subsubsubsection}{\numberline {7.5.2.1}Examination of Ascendants and their Characteristics}{81}{subsubsubsection.7.5.2.1}%
+\contentsline {subsubsubsection}{\numberline {7.5.2.2}Examination of Planetary Influences}{82}{subsubsubsection.7.5.2.2}%
+\contentsline {subsubsubsection}{\numberline {7.5.2.3}Ascendant and Moon Sign}{83}{subsubsubsection.7.5.2.3}%
+\contentsline {subsubsection}{\numberline {7.5.3}PLANETARY PERIODS (DASHAS AND BHUKTIS)}{83}{subsubsection.7.5.3}%
+\contentsline {subsubsection}{\numberline {7.5.4}JAIMINI DASHAS}{83}{subsubsection.7.5.4}%
+\contentsline {subsubsection}{\numberline {7.5.5}DECANATE AND NAVAMSHA CHARTS}{83}{subsubsection.7.5.5}%
+\contentsline {section}{\numberline {8}JAIMINI ASTROLOGY}{85}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Jaimini Karakas}{85}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Jaimini Aspects}{86}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Jaimini Chara Dash}{86}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Rules of Interpretation for Jaimini Chara Dasha}{86}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Jaimini Planetary Strength}{86}{subsubsection.8.3.2}%
+\contentsline {paragraph}{1. Mulatrikona strength}{87}{section*.73}%
+\contentsline {paragraph}{2. Amsha Strength}{87}{section*.74}%
+\contentsline {paragraph}{3. Kendra Strength}{87}{section*.75}%
+\contentsline {subsubsection}{\numberline {8.3.3}Sign Strength}{87}{subsubsection.8.3.3}%
+\contentsline {paragraph}{1. Fixed or Inherent}{87}{section*.76}%
+\contentsline {paragraph}{2. Association}{87}{section*.77}%
+\contentsline {paragraph}{3. Aspect of Mercury, Jupiter and Sign Lord}{87}{section*.78}%
+\contentsline {paragraph}{4. Lords Strength according to Jaimini Planetary Strength}{87}{section*.79}%
+\contentsline {section}{\numberline {9}THE QUESTION OF AYANAMSHA}{88}{section.9}%
+\contentsline {subsection}{\numberline {9.1}The Name Vedic Astrology}{88}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}The Question of Ayanamsha}{88}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Traditional Calculation of the Ayanamsha: The Revati Zodiac}{88}{subsubsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.3}Chitra Paksha Ayanamsha}{89}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Western Ayanamshas}{91}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Controversies of Ayanamsha}{91}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}The Rate of Precession}{91}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Are There True and Mean Rates of Precessional Motion?}{92}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}Conclusion}{92}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}A Few Popular Ayanamshas}{92}{subsection.9.9}%
+\contentsline {paragraph}{Western Ayanamshas}{92}{section*.80}%
+\contentsline {paragraph}{Chitra Paksha Ayanamshas}{93}{section*.81}%
+\contentsline {paragraph}{Greater Revati Paksha Ayanamshas}{93}{section*.82}%
+\contentsline {paragraph}{Lesser Revati Paksha Ayanamshas}{93}{section*.83}%
+\contentsline {section}{\numberline {10}THE ANTIQUITY OF VEDIC ASTROLOGY}{94}{section.10}%
+\contentsline {subsection}{\numberline {10.1}TRADITIONAL VEDIC VIEW AND MODERN ACADEMICS}{94}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}New Light on Ancient India}{96}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Vedic and Western Astrology}{97}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Tajika Astrology}{98}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Nakshatras}{98}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Nakshatras and Signs}{99}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Natal Charts}{100}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Greek Terms in Vedic Astrology}{101}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}Yavana Jataka}{101}{subsection.10.9}%
+\contentsline {subsection}{\numberline {10.10}Greek and Hindu Mathematics}{102}{subsection.10.10}%
+\contentsline {subsection}{\numberline {10.11}Vedic Astrology and Other Vedic Systems}{103}{subsection.10.11}%
+\contentsline {subsection}{\numberline {10.12}Astrology and Karma}{103}{subsection.10.12}%
