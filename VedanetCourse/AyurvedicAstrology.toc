@@ -1,265 +1,440 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}COURSE INTRODUCTION}{6}{section.1}%
-\contentsline {subsection}{\numberline {1.1}STUDY OF VEDIC ASTROLOGY}{6}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}PURPOSE OF THE COURSE}{6}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}BACKGROUND OF THE COURSE}{7}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}REQUIREMENTS OF THE STUDENT}{7}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}ORIENTATION OF THE COURSE}{7}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}BOOKS AND CDS FOR COURSE}{8}{subsection.1.6}%
-\contentsline {subsection}{\numberline {1.7}VEDIC SOFTWARE}{8}{subsection.1.7}%
-\contentsline {subsection}{\numberline {1.8}FORMAT OF THE COURSE}{9}{subsection.1.8}%
-\contentsline {subsection}{\numberline {1.9}Course Workbook}{9}{subsection.1.9}%
-\contentsline {subsection}{\numberline {1.10}COURSE ILLUSTRATIONS}{10}{subsection.1.10}%
-\contentsline {subsection}{\numberline {1.11}Final Test Questions}{10}{subsection.1.11}%
-\contentsline {subsection}{\numberline {1.12}\textbf {SPECIAL AUDIO INTRODUCTION TO THE COURSE BY DR. DAVID FRAWLEY (VAMADEVA SHASTRI)}}{10}{subsection.1.12}%
-\contentsline {subsection}{\numberline {1.13}VEDIC ASTROLOGY READINGS FOR COURSE STUDENTS}{10}{subsection.1.13}%
-\contentsline {subsection}{\numberline {1.14}OUR WEBSITE AND SOCIAL MEDIA}{10}{subsection.1.14}%
-\contentsline {subsection}{\numberline {1.15}OUR FACEBOOK ACCOUNT FOR AMERICAN INSTITUTE OF VEDIC STUDIES}{11}{subsection.1.15}%
-\contentsline {subsection}{\numberline {1.16}COURSE REFUNDS AND TERM FOR COMPLETION}{11}{subsection.1.16}%
-\contentsline {subsection}{\numberline {1.17}CERTIFICATION}{11}{subsection.1.17}%
-\contentsline {subsection}{\numberline {1.18}FURTHER TRAINING OPTIONS WITH US}{11}{subsection.1.18}%
-\contentsline {subsection}{\numberline {1.19}INDIAN NATIONAL TELEVISION (DOOR DARSHAN) INTERVIEW WITH DR. DAVID FRAWLEY}{12}{subsection.1.19}%
-\contentsline {section}{\numberline {2}THE BACKGROUND OF VEDIC ASTROLOGY}{13}{section.2}%
-\contentsline {subsection}{\numberline {2.1}SYSTEMS OF ASTROLOGY – EAST AND WEST}{13}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}THE ASTROLOGER AS LIFE-COUNSELOR}{14}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}THREE MODELS OF VEDIC ASTROLOGY}{14}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}1. PREDICTIVE ASTROLOGY}{14}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}2. JUDGMENTAL ASTROLOGY}{15}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}3. SPIRITUAL ASTROLOGY AND ASTROLOGICAL COUNSELING}{17}{subsubsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.4}THE ASTROLOGY OF HEALING/ YOGIC ASTROLOGY AND AYURVEDIC ASTROLOGY}{18}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}THE FOUR AIMS OF LIFE}{18}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}DHARMA}{19}{subsubsection.2.5.1}%
-\contentsline {subsubsubsection}{\numberline {2.5.1.1}Indications in the Chart}{19}{subsubsubsection.2.5.1.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}ARTHA}{20}{subsubsection.2.5.2}%
-\contentsline {subsubsubsection}{\numberline {2.5.2.1}Indications in the Chart}{20}{subsubsubsection.2.5.2.1}%
-\contentsline {subsubsection}{\numberline {2.5.3}KAMA}{20}{subsubsection.2.5.3}%
-\contentsline {subsubsubsection}{\numberline {2.5.3.1}Indications in the Chart}{21}{subsubsubsection.2.5.3.1}%
-\contentsline {subsubsection}{\numberline {2.5.4}MOKSHA}{21}{subsubsection.2.5.4}%
-\contentsline {subsubsubsection}{\numberline {2.5.4.1}Indications in the Chart}{21}{subsubsubsection.2.5.4.1}%
-\contentsline {subsubsection}{\numberline {2.5.5}Relationship between the Four Aims of Life}{22}{subsubsection.2.5.5}%
-\contentsline {subsubsection}{\numberline {2.5.6}THE KARMA OF AN ASTROLOGER}{23}{subsubsection.2.5.6}%
-\contentsline {subsection}{\numberline {2.6}\textbf {Talk by Dr. David Frawley on Vedic Astrology and Vedic Counseling Shows how we view and apply Vedic astrology in our integral approach to Vedic knowledge}}{24}{subsection.2.6}%
-\contentsline {section}{\numberline {3}OVERVIEW OF VEDIC ASTROLOGY}{25}{section.3}%
-\contentsline {subsection}{\numberline {3.1}EDUCATIONAL INSIGHT}{25}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}AN INTRODUCTION BY HINDUISM TODAY}{25}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Working with Our Karmic Code}{26}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Cosmic Consciousness}{27}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Remedial Measures}{28}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}A Mystical Science}{29}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Antiquity}{30}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}A Comparison with Western Astrology}{30}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Vedic Astrology Today}{32}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}Misuse of Astrology}{32}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Astrology for You}{33}{subsection.3.11}%
-\contentsline {subsubsection}{\numberline {3.11.1}How Might I Benefit from Jyotisha?}{34}{subsubsection.3.11.1}%
-\contentsline {subsubsection}{\numberline {3.11.2}How Accurate Is It?}{34}{subsubsection.3.11.2}%
-\contentsline {subsubsection}{\numberline {3.11.3}What Is the Nature of a Jyotish Reading?}{34}{subsubsection.3.11.3}%
-\contentsline {subsubsection}{\numberline {3.11.4}What Information Should I Expect to Acquire?}{35}{subsubsection.3.11.4}%
-\contentsline {subsubsection}{\numberline {3.11.5}Astrology for Health}{35}{subsubsection.3.11.5}%
-\contentsline {subsection}{\numberline {3.12}What Can I Do to Get Started with Astrology?}{35}{subsection.3.12}%
-\contentsline {subsubsection}{\numberline {3.12.1}Once I Have My Interpreted Chart, How Do I Use It?}{36}{subsubsection.3.12.1}%
-\contentsline {subsubsection}{\numberline {3.12.2}How Is the Panchangam Best Used?}{36}{subsubsection.3.12.2}%
-\contentsline {subsubsection}{\numberline {3.12.3}What Other Ways Can I Use Jyotisha?}{36}{subsubsection.3.12.3}%
-\contentsline {subsubsection}{\numberline {3.12.4}How Can I Use this Wisdom to Guide My Children?}{36}{subsubsection.3.12.4}%
-\contentsline {subsection}{\numberline {3.13}In a Nutshell}{37}{subsection.3.13}%
-\contentsline {subsection}{\numberline {3.14}Are “Bad Times” Really Bad Times?}{37}{subsection.3.14}%
-\contentsline {subsection}{\numberline {3.15}How Much Time and Emphasis on Jyotisha Is Healthy?}{37}{subsection.3.15}%
-\contentsline {section}{\numberline {4}FOUNDATIONS OF VEDIC ASTROLOGY}{39}{section.4}%
-\contentsline {subsection}{\numberline {4.1}\textbf {Introduction to the Foundations of Vedic Astrology by Vamadeva From Planets, Signs and Houses to Aspects, Planetary Periods and Yogas}}{39}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}PART I. THE BACKGROUND OF VEDIC ASTROLOGY, THEORY AND CALCULATIONS}{39}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Spiritual Background of Vedic Astrology}{39}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Tropical and Sideral Zodiacs – Ayanamsha}{40}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}The Yugas or World Ages}{41}{subsubsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.3}1. THE NINE PLANETS (NAVAGRAHA)}{42}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}THE PLANETS: THE GREAT COSMIC SIGNIFICATORS (Astrology of the Seers, Chapter 4, pages 47-55)}{42}{subsubsection.4.3.1}%
-\contentsline {subsubsubsection}{\numberline {4.3.1.1}PLANETS AND THE THREE GUNAS}{42}{subsubsubsection.4.3.1.1}%
-\contentsline {subsubsubsection}{\numberline {4.3.1.2}PLANETS AND THE FIVE ELEMENTS}{43}{subsubsubsection.4.3.1.2}%
-\contentsline {subsubsubsection}{\numberline {4.3.1.3}PLANETS AS BENEFIC OR MALEFIC/NATURAL STATUS }{44}{subsubsubsection.4.3.1.3}%
-\contentsline {subsubsubsection}{\numberline {4.3.1.4}PLANETS IN TERMS OF QUALITIES AND CHARACTERISTICS}{45}{subsubsubsection.4.3.1.4}%
-\contentsline {subsection}{\numberline {4.4}2. THE TWELVE SIGNS OR RASHIS}{46}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}SIGN QUALITIES }{47}{subsubsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.2}SIGNS AND ELEMENTS}{47}{subsubsection.4.4.2}%
-\contentsline {subsubsection}{\numberline {4.4.3}THE MEANINGS OF THE TWELVE SIGNS CONTINUED}{48}{subsubsection.4.4.3}%
-\contentsline {subsubsection}{\numberline {4.4.4}Combining Qualities and Elements of Signs}{49}{subsubsection.4.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.5}Astroart of the Twelve Signs Courtesy of Hinduism Today}{49}{subsubsection.4.4.5}%
-\contentsline {subsubsection}{\numberline {4.4.6}COURSE WORKBOOK FOR EXAMINATION OF SOUTH AND NORTH INDIAN VEDIC CHARTS}{54}{subsubsection.4.4.6}%
-\contentsline {subsubsection}{\numberline {4.4.7}FURTHER INDICATIONS OF THE PLANETS RELATIVE TO THE SIGNS SIGNS OF EXALTATION AND DEBILITY }{56}{subsubsection.4.4.7}%
-\contentsline {subsubsection}{\numberline {4.4.8}Mulatrikona Signs for Planets}{56}{subsubsection.4.4.8}%
-\contentsline {subsubsection}{\numberline {4.4.9}PLANETARY FRIENDSHIP AND ENMITY }{57}{subsubsection.4.4.9}%
-\contentsline {subsubsection}{\numberline {4.4.10}Natural Planetary Friendship and Enmity}{57}{subsubsection.4.4.10}%
-\contentsline {subsubsection}{\numberline {4.4.11}Temporal or Temporary Planetary Friendship and Enmity}{57}{subsubsection.4.4.11}%
-\contentsline {subsection}{\numberline {4.5}3. THE TWELVE HOUSES}{57}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Calculation of Houses}{58}{subsubsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.2}Houses from the Moon}{59}{subsubsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.3}Referred Houses}{59}{subsubsection.4.5.3}%
-\contentsline {subsubsection}{\numberline {4.5.4}HOUSE QUALITIES}{59}{subsubsection.4.5.4}%
-\contentsline {subsubsection}{\numberline {4.5.5}Additional House Groupings}{59}{subsubsection.4.5.5}%
-\contentsline {subsubsection}{\numberline {4.5.6}The natural significators of each house:}{60}{subsubsection.4.5.6}%
-\contentsline {subsubsection}{\numberline {4.5.7}PRINCIPLES OF HOUSE RULERSHIP}{60}{subsubsection.4.5.7}%
-\contentsline {subsection}{\numberline {4.6}4. THE TWENTY-SEVEN NAKSHATRAS}{61}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}5. PLANETARY ASPECTS AND ASSOCIATIONS}{63}{subsection.4.7}%
-\contentsline {subsubsection}{\numberline {4.7.1}SPECIAL ASPECTS OF MARS, JUPITER AND SATURN}{63}{subsubsection.4.7.1}%
-\contentsline {subsubsection}{\numberline {4.7.2}Rahu and Ketu}{63}{subsubsection.4.7.2}%
-\contentsline {subsubsection}{\numberline {4.7.3}Aspects in Divisional Charts}{63}{subsubsection.4.7.3}%
-\contentsline {subsubsection}{\numberline {4.7.4}Determination of Aspects by Sight}{63}{subsubsection.4.7.4}%
-\contentsline {subsubsection}{\numberline {4.7.5}Sambandha or Full Relationship between Planets}{64}{subsubsection.4.7.5}%
-\contentsline {subsubsection}{\numberline {4.7.6}Combust Planets}{64}{subsubsection.4.7.6}%
-\contentsline {subsubsection}{\numberline {4.7.7}Planetary War}{64}{subsubsection.4.7.7}%
-\contentsline {subsubsection}{\numberline {4.7.8}Separative Planets}{64}{subsubsection.4.7.8}%
-\contentsline {subsubsection}{\numberline {4.7.9}Weight of Planetary Aspects}{64}{subsubsection.4.7.9}%
-\contentsline {subsubsection}{\numberline {4.7.10}PLANETARY YOGAS}{65}{subsubsection.4.7.10}%
-\contentsline {subsection}{\numberline {4.8}6. DIVISIONAL OR HARMONIC CHARTS}{66}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}7. PLANETARY PERIODS OR DASHAS AND FACTORS OF ASTROLOGICAL TIMING}{67}{subsection.4.9}%
-\contentsline {subsubsection}{\numberline {4.9.1}GOCHARA OR TRANSITS}{68}{subsubsection.4.9.1}%
-\contentsline {subsubsection}{\numberline {4.9.2}PRASHNA}{68}{subsubsection.4.9.2}%
-\contentsline {subsubsection}{\numberline {4.9.3}MUHURTA, ASTROLOGICAL FORECASTING AND MUNDANE ASTROLOGY}{68}{subsubsection.4.9.3}%
-\contentsline {subsection}{\numberline {4.10}8. ASTROLOGY AND AYURVEDA, REMEDIAL MEASURES}{68}{subsection.4.10}%
-\contentsline {subsubsection}{\numberline {4.10.1}ASTROLOGY AND PSYCHOLOGY}{69}{subsubsection.4.10.1}%
-\contentsline {subsubsection}{\numberline {4.10.2}REMEDIAL MEASURES/ TREATMENT METHODS }{70}{subsubsection.4.10.2}%
-\contentsline {subsubsection}{\numberline {4.10.3}WORSHIP AND MEDITATION ON THE PLANETS}{71}{subsubsection.4.10.3}%
-\contentsline {subsubsection}{\numberline {4.10.4}THE ASTROLOGY OF THE SEERS, EXAMPLE CHARTS}{71}{subsubsection.4.10.4}%
-\contentsline {subsubsection}{\numberline {4.10.5}COURSE WORKBOOOK READINGS}{71}{subsubsection.4.10.5}%
-\contentsline {subsubsection}{\numberline {4.10.6}Table of the Planets}{72}{subsubsection.4.10.6}%
-\contentsline {section}{\numberline {5}PLANETARY TYPES}{75}{section.5}%
-\contentsline {subsection}{\numberline {5.1}DETERMINATION OF PLANETARY TYPE }{76}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}SUN TYPES}{76}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}MOON TYPES }{77}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}MARS TYPES}{77}{subsubsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.4}MERCURY TYPES}{78}{subsubsection.5.1.4}%
-\contentsline {subsubsection}{\numberline {5.1.5}JUPITER TYPES}{79}{subsubsection.5.1.5}%
-\contentsline {subsubsection}{\numberline {5.1.6}VENUS TYPES}{79}{subsubsection.5.1.6}%
-\contentsline {subsubsection}{\numberline {5.1.7}SATURN TYPES }{80}{subsubsection.5.1.7}%
-\contentsline {subsubsection}{\numberline {5.1.8}RAHU TYPES}{80}{subsubsection.5.1.8}%
-\contentsline {subsubsection}{\numberline {5.1.9}KETU TYPES}{81}{subsubsection.5.1.9}%
-\contentsline {subsection}{\numberline {5.2}SUMMARY OF PLANETARY TYPES}{81}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}DUAL PLANETARY TYPES}{82}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}SECONDARY TYPES}{82}{subsubsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.3}WEAK PLANETARY TYPES}{82}{subsubsection.5.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.4}INDEX OF PLANETARY INFLUENCES }{82}{subsubsection.5.2.4}%
-\contentsline {section}{\numberline {6}THE TWELVE HOUSES AND HOUSE RULERSHIP, ADVANCED STUDY}{84}{section.6}%
-\contentsline {subsection}{\numberline {6.1}MEANING OF THE HOUSES}{84}{subsection.6.1}%
-\contentsline {paragraph}{FIRST HOUSE}{84}{section*.1}%
-\contentsline {paragraph}{SECOND HOUSE}{84}{section*.2}%
-\contentsline {paragraph}{THIRD HOUSE}{84}{section*.3}%
-\contentsline {paragraph}{FOURTH HOUSE}{84}{section*.4}%
-\contentsline {paragraph}{FIFTH HOUSE}{84}{section*.5}%
-\contentsline {paragraph}{SIXTH HOUSE}{84}{section*.6}%
-\contentsline {paragraph}{SEVENTH HOUSE}{84}{section*.7}%
-\contentsline {paragraph}{EIGHTH HOUSE}{84}{section*.8}%
-\contentsline {paragraph}{NINTH HOUSE}{85}{section*.9}%
-\contentsline {paragraph}{TENTH HOUSE}{85}{section*.10}%
-\contentsline {paragraph}{ELEVENTH HOUSE}{85}{section*.11}%
-\contentsline {paragraph}{TWELFTH HOUSE}{85}{section*.12}%
-\contentsline {subsection}{\numberline {6.2}HOUSE LORDS}{85}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}HOUSE RULERSHIP TABLE}{85}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}\textbf {Note Audio Explanation of Principles of House Rulership Followed by Detailed Examination}}{86}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}PLANETS BY ASCENDANT RELATIVE TO HOUSE RULERSHIP}{87}{subsection.6.5}%
-\contentsline {subsubsection}{\numberline {6.5.1}Aries Ascendant}{87}{subsubsection.6.5.1}%
-\contentsline {paragraph}{Sun}{87}{section*.13}%
-\contentsline {paragraph}{Moon}{87}{section*.14}%
-\contentsline {paragraph}{Mars}{87}{section*.15}%
-\contentsline {paragraph}{Mercury}{87}{section*.16}%
-\contentsline {paragraph}{Jupiter}{88}{section*.17}%
-\contentsline {paragraph}{Venus}{88}{section*.18}%
-\contentsline {paragraph}{Saturn}{88}{section*.19}%
-\contentsline {paragraph}{Overall}{88}{section*.20}%
-\contentsline {subsubsection}{\numberline {6.5.2}Taurus Ascendant}{88}{subsubsection.6.5.2}%
-\contentsline {paragraph}{Sun}{88}{section*.21}%
-\contentsline {paragraph}{Moon}{88}{section*.22}%
-\contentsline {paragraph}{Mars}{89}{section*.23}%
-\contentsline {paragraph}{Mercury}{89}{section*.24}%
-\contentsline {paragraph}{Venus}{89}{section*.25}%
-\contentsline {paragraph}{Jupiter}{89}{section*.26}%
-\contentsline {paragraph}{Saturn}{89}{section*.27}%
-\contentsline {paragraph}{Overall}{89}{section*.28}%
-\contentsline {subsubsection}{\numberline {6.5.3}Gemini Ascendant}{89}{subsubsection.6.5.3}%
-\contentsline {paragraph}{Sun}{89}{section*.29}%
-\contentsline {paragraph}{Moon}{90}{section*.30}%
-\contentsline {paragraph}{Mars}{90}{section*.31}%
-\contentsline {paragraph}{Mercury}{90}{section*.32}%
-\contentsline {paragraph}{Jupiter}{90}{section*.33}%
-\contentsline {paragraph}{Venus}{90}{section*.34}%
-\contentsline {paragraph}{Saturn}{90}{section*.35}%
-\contentsline {paragraph}{Overall}{90}{section*.36}%
-\contentsline {subsubsection}{\numberline {6.5.4}Cancer Ascendent}{91}{subsubsection.6.5.4}%
-\contentsline {paragraph}{Sun}{91}{section*.37}%
-\contentsline {paragraph}{Moon}{91}{section*.38}%
-\contentsline {paragraph}{Mars}{91}{section*.39}%
-\contentsline {paragraph}{Mercury}{91}{section*.40}%
-\contentsline {paragraph}{Jupiter}{91}{section*.41}%
-\contentsline {paragraph}{Venus}{91}{section*.42}%
-\contentsline {paragraph}{Saturn}{91}{section*.43}%
-\contentsline {paragraph}{Overall}{91}{section*.44}%
-\contentsline {subsubsection}{\numberline {6.5.5}Leo Ascendant}{92}{subsubsection.6.5.5}%
-\contentsline {paragraph}{Sun}{92}{section*.45}%
-\contentsline {paragraph}{Moon}{92}{section*.46}%
-\contentsline {paragraph}{Mars}{92}{section*.47}%
-\contentsline {paragraph}{Mercury}{92}{section*.48}%
-\contentsline {paragraph}{Jupiter}{92}{section*.49}%
-\contentsline {paragraph}{Venus}{92}{section*.50}%
-\contentsline {paragraph}{Saturn}{93}{section*.51}%
-\contentsline {paragraph}{Overall}{93}{section*.52}%
-\contentsline {subsubsection}{\numberline {6.5.6}Virgo Ascendant}{93}{subsubsection.6.5.6}%
-\contentsline {paragraph}{Sun}{93}{section*.53}%
-\contentsline {paragraph}{Moon}{93}{section*.54}%
-\contentsline {paragraph}{Mercury}{93}{section*.55}%
-\contentsline {paragraph}{Mars}{93}{section*.56}%
-\contentsline {paragraph}{Jupiter}{93}{section*.57}%
-\contentsline {paragraph}{Venus}{94}{section*.58}%
-\contentsline {paragraph}{Saturn}{94}{section*.59}%
-\contentsline {paragraph}{Overall}{94}{section*.60}%
-\contentsline {subsubsection}{\numberline {6.5.7}Libra Ascendant}{94}{subsubsection.6.5.7}%
-\contentsline {paragraph}{Sun}{94}{section*.61}%
-\contentsline {paragraph}{Moon}{94}{section*.62}%
-\contentsline {paragraph}{Mars}{94}{section*.63}%
-\contentsline {paragraph}{Mercury}{94}{section*.64}%
-\contentsline {paragraph}{Jupiter}{95}{section*.65}%
-\contentsline {paragraph}{Venus}{95}{section*.66}%
-\contentsline {paragraph}{Saturn}{95}{section*.67}%
-\contentsline {paragraph}{Overall}{95}{section*.68}%
-\contentsline {subsubsection}{\numberline {6.5.8}Scorpio Ascendant}{95}{subsubsection.6.5.8}%
-\contentsline {paragraph}{Sun}{95}{section*.69}%
-\contentsline {paragraph}{Moon}{95}{section*.70}%
-\contentsline {paragraph}{Mars}{95}{section*.71}%
-\contentsline {paragraph}{Mercury}{95}{section*.72}%
-\contentsline {paragraph}{Jupiter}{96}{section*.73}%
-\contentsline {paragraph}{Venus}{96}{section*.74}%
-\contentsline {paragraph}{Saturn}{96}{section*.75}%
-\contentsline {paragraph}{Overall}{96}{section*.76}%
-\contentsline {subsubsection}{\numberline {6.5.9}Sagittarius Ascendant}{96}{subsubsection.6.5.9}%
-\contentsline {paragraph}{Sun}{96}{section*.77}%
-\contentsline {paragraph}{Moon}{96}{section*.78}%
-\contentsline {paragraph}{Mars}{96}{section*.79}%
-\contentsline {paragraph}{Mercury}{97}{section*.80}%
-\contentsline {paragraph}{Jupiter}{97}{section*.81}%
-\contentsline {paragraph}{Venus}{97}{section*.82}%
-\contentsline {paragraph}{Saturn}{97}{section*.83}%
-\contentsline {paragraph}{Overall}{97}{section*.84}%
-\contentsline {subsubsection}{\numberline {6.5.10}Capricorn Ascendant}{97}{subsubsection.6.5.10}%
-\contentsline {paragraph}{Sun}{97}{section*.85}%
-\contentsline {paragraph}{Moon}{97}{section*.86}%
-\contentsline {paragraph}{Mars}{98}{section*.87}%
-\contentsline {paragraph}{Mercury}{98}{section*.88}%
-\contentsline {paragraph}{Jupiter}{98}{section*.89}%
-\contentsline {paragraph}{Venus}{98}{section*.90}%
-\contentsline {paragraph}{Saturn}{98}{section*.91}%
-\contentsline {paragraph}{Overall}{98}{section*.92}%
-\contentsline {subsubsection}{\numberline {6.5.11}Aquarius Ascendant}{98}{subsubsection.6.5.11}%
-\contentsline {paragraph}{Sun}{98}{section*.93}%
-\contentsline {paragraph}{Moon}{98}{section*.94}%
-\contentsline {paragraph}{Mars}{99}{section*.95}%
-\contentsline {paragraph}{Mercury}{99}{section*.96}%
-\contentsline {paragraph}{Jupiter}{99}{section*.97}%
-\contentsline {paragraph}{Venus}{99}{section*.98}%
-\contentsline {paragraph}{Saturn}{99}{section*.99}%
-\contentsline {paragraph}{Overall}{99}{section*.100}%
-\contentsline {subsubsection}{\numberline {6.5.12}Pisces Ascendant}{100}{subsubsection.6.5.12}%
-\contentsline {paragraph}{Sun}{100}{section*.101}%
-\contentsline {paragraph}{Moon}{100}{section*.102}%
-\contentsline {paragraph}{Mars}{100}{section*.103}%
-\contentsline {paragraph}{Mercury}{100}{section*.104}%
-\contentsline {paragraph}{Jupiter}{100}{section*.105}%
-\contentsline {paragraph}{Venus}{100}{section*.106}%
-\contentsline {paragraph}{Saturn}{100}{section*.107}%
-\contentsline {paragraph}{Overall}{100}{section*.108}%
-\contentsline {subsection}{\numberline {6.6}Summary}{101}{subsection.6.6}%
+\contentsline {section}{\numberline {1}COURSE INTRODUCTION}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}STUDY OF VEDIC ASTROLOGY}{10}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}PURPOSE OF THE COURSE}{10}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}BACKGROUND OF THE COURSE}{11}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}REQUIREMENTS OF THE STUDENT}{11}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}ORIENTATION OF THE COURSE}{11}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}BOOKS AND CDS FOR COURSE}{12}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}VEDIC SOFTWARE}{12}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}FORMAT OF THE COURSE}{13}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Course Workbook}{13}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}COURSE ILLUSTRATIONS}{14}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Final Test Questions}{14}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}\textbf {SPECIAL AUDIO INTRODUCTION TO THE COURSE BY DR. DAVID FRAWLEY (VAMADEVA SHASTRI)}}{14}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}VEDIC ASTROLOGY READINGS FOR COURSE STUDENTS}{14}{subsection.1.13}%
+\contentsline {subsection}{\numberline {1.14}OUR WEBSITE AND SOCIAL MEDIA}{14}{subsection.1.14}%
+\contentsline {subsection}{\numberline {1.15}OUR FACEBOOK ACCOUNT FOR AMERICAN INSTITUTE OF VEDIC STUDIES}{15}{subsection.1.15}%
+\contentsline {subsection}{\numberline {1.16}COURSE REFUNDS AND TERM FOR COMPLETION}{15}{subsection.1.16}%
+\contentsline {subsection}{\numberline {1.17}CERTIFICATION}{15}{subsection.1.17}%
+\contentsline {subsection}{\numberline {1.18}FURTHER TRAINING OPTIONS WITH US}{15}{subsection.1.18}%
+\contentsline {subsection}{\numberline {1.19}INDIAN NATIONAL TELEVISION (DOOR DARSHAN) INTERVIEW WITH DR. DAVID FRAWLEY}{16}{subsection.1.19}%
+\contentsline {section}{\numberline {2}THE BACKGROUND OF VEDIC ASTROLOGY}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}SYSTEMS OF ASTROLOGY – EAST AND WEST}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}THE ASTROLOGER AS LIFE-COUNSELOR}{18}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}THREE MODELS OF VEDIC ASTROLOGY}{18}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}1. PREDICTIVE ASTROLOGY}{18}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}2. JUDGMENTAL ASTROLOGY}{19}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}3. SPIRITUAL ASTROLOGY AND ASTROLOGICAL COUNSELING}{21}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}THE ASTROLOGY OF HEALING/ YOGIC ASTROLOGY AND AYURVEDIC ASTROLOGY}{22}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}THE FOUR AIMS OF LIFE}{22}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}DHARMA}{23}{subsubsection.2.5.1}%
+\contentsline {subsubsubsection}{\numberline {2.5.1.1}Indications in the Chart}{23}{subsubsubsection.2.5.1.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}ARTHA}{24}{subsubsection.2.5.2}%
+\contentsline {subsubsubsection}{\numberline {2.5.2.1}Indications in the Chart}{24}{subsubsubsection.2.5.2.1}%
+\contentsline {subsubsection}{\numberline {2.5.3}KAMA}{24}{subsubsection.2.5.3}%
+\contentsline {subsubsubsection}{\numberline {2.5.3.1}Indications in the Chart}{25}{subsubsubsection.2.5.3.1}%
+\contentsline {subsubsection}{\numberline {2.5.4}MOKSHA}{25}{subsubsection.2.5.4}%
+\contentsline {subsubsubsection}{\numberline {2.5.4.1}Indications in the Chart}{25}{subsubsubsection.2.5.4.1}%
+\contentsline {subsubsection}{\numberline {2.5.5}Relationship between the Four Aims of Life}{26}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}THE KARMA OF AN ASTROLOGER}{27}{subsubsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.6}\textbf {Talk by Dr. David Frawley on Vedic Astrology and Vedic Counseling Shows how we view and apply Vedic astrology in our integral approach to Vedic knowledge}}{28}{subsection.2.6}%
+\contentsline {section}{\numberline {3}OVERVIEW OF VEDIC ASTROLOGY}{29}{section.3}%
+\contentsline {subsection}{\numberline {3.1}EDUCATIONAL INSIGHT}{29}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}AN INTRODUCTION BY HINDUISM TODAY}{29}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Working with Our Karmic Code}{30}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Cosmic Consciousness}{31}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Remedial Measures}{32}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}A Mystical Science}{33}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Antiquity}{34}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}A Comparison with Western Astrology}{34}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Vedic Astrology Today}{36}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Misuse of Astrology}{36}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Astrology for You}{37}{subsection.3.11}%
+\contentsline {subsubsection}{\numberline {3.11.1}How Might I Benefit from Jyotisha?}{38}{subsubsection.3.11.1}%
+\contentsline {subsubsection}{\numberline {3.11.2}How Accurate Is It?}{38}{subsubsection.3.11.2}%
+\contentsline {subsubsection}{\numberline {3.11.3}What Is the Nature of a Jyotish Reading?}{38}{subsubsection.3.11.3}%
+\contentsline {subsubsection}{\numberline {3.11.4}What Information Should I Expect to Acquire?}{39}{subsubsection.3.11.4}%
+\contentsline {subsubsection}{\numberline {3.11.5}Astrology for Health}{39}{subsubsection.3.11.5}%
+\contentsline {subsection}{\numberline {3.12}What Can I Do to Get Started with Astrology?}{39}{subsection.3.12}%
+\contentsline {subsubsection}{\numberline {3.12.1}Once I Have My Interpreted Chart, How Do I Use It?}{40}{subsubsection.3.12.1}%
+\contentsline {subsubsection}{\numberline {3.12.2}How Is the Panchangam Best Used?}{40}{subsubsection.3.12.2}%
+\contentsline {subsubsection}{\numberline {3.12.3}What Other Ways Can I Use Jyotisha?}{40}{subsubsection.3.12.3}%
+\contentsline {subsubsection}{\numberline {3.12.4}How Can I Use this Wisdom to Guide My Children?}{40}{subsubsection.3.12.4}%
+\contentsline {subsection}{\numberline {3.13}In a Nutshell}{41}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14}Are “Bad Times” Really Bad Times?}{41}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}How Much Time and Emphasis on Jyotisha Is Healthy?}{41}{subsection.3.15}%
+\contentsline {section}{\numberline {4}FOUNDATIONS OF VEDIC ASTROLOGY}{43}{section.4}%
+\contentsline {subsection}{\numberline {4.1}\textbf {Introduction to the Foundations of Vedic Astrology by Vamadeva From Planets, Signs and Houses to Aspects, Planetary Periods and Yogas}}{43}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}PART I. THE BACKGROUND OF VEDIC ASTROLOGY, THEORY AND CALCULATIONS}{43}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Spiritual Background of Vedic Astrology}{43}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Tropical and Sideral Zodiacs – Ayanamsha}{44}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}The Yugas or World Ages}{45}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}1. THE NINE PLANETS (NAVAGRAHA)}{46}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}THE PLANETS: THE GREAT COSMIC SIGNIFICATORS (Astrology of the Seers, Chapter 4, pages 47-55)}{46}{subsubsection.4.3.1}%
+\contentsline {subsubsubsection}{\numberline {4.3.1.1}PLANETS AND THE THREE GUNAS}{46}{subsubsubsection.4.3.1.1}%
+\contentsline {subsubsubsection}{\numberline {4.3.1.2}PLANETS AND THE FIVE ELEMENTS}{47}{subsubsubsection.4.3.1.2}%
+\contentsline {subsubsubsection}{\numberline {4.3.1.3}PLANETS AS BENEFIC OR MALEFIC/NATURAL STATUS }{48}{subsubsubsection.4.3.1.3}%
+\contentsline {subsubsubsection}{\numberline {4.3.1.4}PLANETS IN TERMS OF QUALITIES AND CHARACTERISTICS}{49}{subsubsubsection.4.3.1.4}%
+\contentsline {subsection}{\numberline {4.4}2. THE TWELVE SIGNS OR RASHIS}{50}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}SIGN QUALITIES }{51}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}SIGNS AND ELEMENTS}{51}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}THE MEANINGS OF THE TWELVE SIGNS CONTINUED}{52}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}Combining Qualities and Elements of Signs}{53}{subsubsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.5}Astroart of the Twelve Signs Courtesy of Hinduism Today}{53}{subsubsection.4.4.5}%
+\contentsline {subsubsection}{\numberline {4.4.6}COURSE WORKBOOK FOR EXAMINATION OF SOUTH AND NORTH INDIAN VEDIC CHARTS}{58}{subsubsection.4.4.6}%
+\contentsline {subsubsection}{\numberline {4.4.7}FURTHER INDICATIONS OF THE PLANETS RELATIVE TO THE SIGNS SIGNS OF EXALTATION AND DEBILITY }{60}{subsubsection.4.4.7}%
+\contentsline {subsubsection}{\numberline {4.4.8}Mulatrikona Signs for Planets}{60}{subsubsection.4.4.8}%
+\contentsline {subsubsection}{\numberline {4.4.9}PLANETARY FRIENDSHIP AND ENMITY }{61}{subsubsection.4.4.9}%
+\contentsline {subsubsection}{\numberline {4.4.10}Natural Planetary Friendship and Enmity}{61}{subsubsection.4.4.10}%
+\contentsline {subsubsection}{\numberline {4.4.11}Temporal or Temporary Planetary Friendship and Enmity}{61}{subsubsection.4.4.11}%
+\contentsline {subsection}{\numberline {4.5}3. THE TWELVE HOUSES}{61}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Calculation of Houses}{62}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Houses from the Moon}{63}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}Referred Houses}{63}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}HOUSE QUALITIES}{63}{subsubsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.5}Additional House Groupings}{63}{subsubsection.4.5.5}%
+\contentsline {subsubsection}{\numberline {4.5.6}The natural significators of each house:}{64}{subsubsection.4.5.6}%
+\contentsline {subsubsection}{\numberline {4.5.7}PRINCIPLES OF HOUSE RULERSHIP}{64}{subsubsection.4.5.7}%
+\contentsline {subsection}{\numberline {4.6}4. THE TWENTY-SEVEN NAKSHATRAS}{65}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}5. PLANETARY ASPECTS AND ASSOCIATIONS}{67}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}SPECIAL ASPECTS OF MARS, JUPITER AND SATURN}{67}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}Rahu and Ketu}{67}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.3}Aspects in Divisional Charts}{67}{subsubsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.4}Determination of Aspects by Sight}{67}{subsubsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.5}Sambandha or Full Relationship between Planets}{68}{subsubsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.6}Combust Planets}{68}{subsubsection.4.7.6}%
+\contentsline {subsubsection}{\numberline {4.7.7}Planetary War}{68}{subsubsection.4.7.7}%
+\contentsline {subsubsection}{\numberline {4.7.8}Separative Planets}{68}{subsubsection.4.7.8}%
+\contentsline {subsubsection}{\numberline {4.7.9}Weight of Planetary Aspects}{68}{subsubsection.4.7.9}%
+\contentsline {subsubsection}{\numberline {4.7.10}PLANETARY YOGAS}{69}{subsubsection.4.7.10}%
+\contentsline {subsection}{\numberline {4.8}6. DIVISIONAL OR HARMONIC CHARTS}{70}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}7. PLANETARY PERIODS OR DASHAS AND FACTORS OF ASTROLOGICAL TIMING}{71}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}GOCHARA OR TRANSITS}{72}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}PRASHNA}{72}{subsubsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.3}MUHURTA, ASTROLOGICAL FORECASTING AND MUNDANE ASTROLOGY}{72}{subsubsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.10}8. ASTROLOGY AND AYURVEDA, REMEDIAL MEASURES}{72}{subsection.4.10}%
+\contentsline {subsubsection}{\numberline {4.10.1}ASTROLOGY AND PSYCHOLOGY}{73}{subsubsection.4.10.1}%
+\contentsline {subsubsection}{\numberline {4.10.2}REMEDIAL MEASURES/ TREATMENT METHODS }{74}{subsubsection.4.10.2}%
+\contentsline {subsubsection}{\numberline {4.10.3}WORSHIP AND MEDITATION ON THE PLANETS}{75}{subsubsection.4.10.3}%
+\contentsline {subsubsection}{\numberline {4.10.4}THE ASTROLOGY OF THE SEERS, EXAMPLE CHARTS}{75}{subsubsection.4.10.4}%
+\contentsline {subsubsection}{\numberline {4.10.5}COURSE WORKBOOOK READINGS}{75}{subsubsection.4.10.5}%
+\contentsline {subsubsection}{\numberline {4.10.6}Table of the Planets}{76}{subsubsection.4.10.6}%
+\contentsline {section}{\numberline {5}PLANETARY TYPES}{79}{section.5}%
+\contentsline {subsection}{\numberline {5.1}DETERMINATION OF PLANETARY TYPE }{80}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}SUN TYPES}{80}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}MOON TYPES }{81}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}MARS TYPES}{81}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}MERCURY TYPES}{82}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}JUPITER TYPES}{83}{subsubsection.5.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.6}VENUS TYPES}{83}{subsubsection.5.1.6}%
+\contentsline {subsubsection}{\numberline {5.1.7}SATURN TYPES }{84}{subsubsection.5.1.7}%
+\contentsline {subsubsection}{\numberline {5.1.8}RAHU TYPES}{84}{subsubsection.5.1.8}%
+\contentsline {subsubsection}{\numberline {5.1.9}KETU TYPES}{85}{subsubsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.2}SUMMARY OF PLANETARY TYPES}{85}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}DUAL PLANETARY TYPES}{86}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}SECONDARY TYPES}{86}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}WEAK PLANETARY TYPES}{86}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}INDEX OF PLANETARY INFLUENCES }{86}{subsubsection.5.2.4}%
+\contentsline {section}{\numberline {6}THE TWELVE HOUSES AND HOUSE RULERSHIP, ADVANCED STUDY}{88}{section.6}%
+\contentsline {subsection}{\numberline {6.1}MEANING OF THE HOUSES}{88}{subsection.6.1}%
+\contentsline {paragraph}{FIRST HOUSE}{88}{section*.1}%
+\contentsline {paragraph}{SECOND HOUSE}{88}{section*.2}%
+\contentsline {paragraph}{THIRD HOUSE}{88}{section*.3}%
+\contentsline {paragraph}{FOURTH HOUSE}{88}{section*.4}%
+\contentsline {paragraph}{FIFTH HOUSE}{88}{section*.5}%
+\contentsline {paragraph}{SIXTH HOUSE}{88}{section*.6}%
+\contentsline {paragraph}{SEVENTH HOUSE}{88}{section*.7}%
+\contentsline {paragraph}{EIGHTH HOUSE}{88}{section*.8}%
+\contentsline {paragraph}{NINTH HOUSE}{89}{section*.9}%
+\contentsline {paragraph}{TENTH HOUSE}{89}{section*.10}%
+\contentsline {paragraph}{ELEVENTH HOUSE}{89}{section*.11}%
+\contentsline {paragraph}{TWELFTH HOUSE}{89}{section*.12}%
+\contentsline {subsection}{\numberline {6.2}HOUSE LORDS}{89}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}HOUSE RULERSHIP TABLE}{89}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}\textbf {Note Audio Explanation of Principles of House Rulership Followed by Detailed Examination}}{90}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}PLANETS BY ASCENDANT RELATIVE TO HOUSE RULERSHIP}{91}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}Aries Ascendant}{91}{subsubsection.6.5.1}%
+\contentsline {paragraph}{Sun}{91}{section*.13}%
+\contentsline {paragraph}{Moon}{91}{section*.14}%
+\contentsline {paragraph}{Mars}{91}{section*.15}%
+\contentsline {paragraph}{Mercury}{91}{section*.16}%
+\contentsline {paragraph}{Jupiter}{92}{section*.17}%
+\contentsline {paragraph}{Venus}{92}{section*.18}%
+\contentsline {paragraph}{Saturn}{92}{section*.19}%
+\contentsline {paragraph}{Overall}{92}{section*.20}%
+\contentsline {subsubsection}{\numberline {6.5.2}Taurus Ascendant}{92}{subsubsection.6.5.2}%
+\contentsline {paragraph}{Sun}{92}{section*.21}%
+\contentsline {paragraph}{Moon}{92}{section*.22}%
+\contentsline {paragraph}{Mars}{93}{section*.23}%
+\contentsline {paragraph}{Mercury}{93}{section*.24}%
+\contentsline {paragraph}{Venus}{93}{section*.25}%
+\contentsline {paragraph}{Jupiter}{93}{section*.26}%
+\contentsline {paragraph}{Saturn}{93}{section*.27}%
+\contentsline {paragraph}{Overall}{93}{section*.28}%
+\contentsline {subsubsection}{\numberline {6.5.3}Gemini Ascendant}{93}{subsubsection.6.5.3}%
+\contentsline {paragraph}{Sun}{93}{section*.29}%
+\contentsline {paragraph}{Moon}{94}{section*.30}%
+\contentsline {paragraph}{Mars}{94}{section*.31}%
+\contentsline {paragraph}{Mercury}{94}{section*.32}%
+\contentsline {paragraph}{Jupiter}{94}{section*.33}%
+\contentsline {paragraph}{Venus}{94}{section*.34}%
+\contentsline {paragraph}{Saturn}{94}{section*.35}%
+\contentsline {paragraph}{Overall}{94}{section*.36}%
+\contentsline {subsubsection}{\numberline {6.5.4}Cancer Ascendent}{95}{subsubsection.6.5.4}%
+\contentsline {paragraph}{Sun}{95}{section*.37}%
+\contentsline {paragraph}{Moon}{95}{section*.38}%
+\contentsline {paragraph}{Mars}{95}{section*.39}%
+\contentsline {paragraph}{Mercury}{95}{section*.40}%
+\contentsline {paragraph}{Jupiter}{95}{section*.41}%
+\contentsline {paragraph}{Venus}{95}{section*.42}%
+\contentsline {paragraph}{Saturn}{95}{section*.43}%
+\contentsline {paragraph}{Overall}{95}{section*.44}%
+\contentsline {subsubsection}{\numberline {6.5.5}Leo Ascendant}{96}{subsubsection.6.5.5}%
+\contentsline {paragraph}{Sun}{96}{section*.45}%
+\contentsline {paragraph}{Moon}{96}{section*.46}%
+\contentsline {paragraph}{Mars}{96}{section*.47}%
+\contentsline {paragraph}{Mercury}{96}{section*.48}%
+\contentsline {paragraph}{Jupiter}{96}{section*.49}%
+\contentsline {paragraph}{Venus}{96}{section*.50}%
+\contentsline {paragraph}{Saturn}{97}{section*.51}%
+\contentsline {paragraph}{Overall}{97}{section*.52}%
+\contentsline {subsubsection}{\numberline {6.5.6}Virgo Ascendant}{97}{subsubsection.6.5.6}%
+\contentsline {paragraph}{Sun}{97}{section*.53}%
+\contentsline {paragraph}{Moon}{97}{section*.54}%
+\contentsline {paragraph}{Mercury}{97}{section*.55}%
+\contentsline {paragraph}{Mars}{97}{section*.56}%
+\contentsline {paragraph}{Jupiter}{97}{section*.57}%
+\contentsline {paragraph}{Venus}{98}{section*.58}%
+\contentsline {paragraph}{Saturn}{98}{section*.59}%
+\contentsline {paragraph}{Overall}{98}{section*.60}%
+\contentsline {subsubsection}{\numberline {6.5.7}Libra Ascendant}{98}{subsubsection.6.5.7}%
+\contentsline {paragraph}{Sun}{98}{section*.61}%
+\contentsline {paragraph}{Moon}{98}{section*.62}%
+\contentsline {paragraph}{Mars}{98}{section*.63}%
+\contentsline {paragraph}{Mercury}{98}{section*.64}%
+\contentsline {paragraph}{Jupiter}{99}{section*.65}%
+\contentsline {paragraph}{Venus}{99}{section*.66}%
+\contentsline {paragraph}{Saturn}{99}{section*.67}%
+\contentsline {paragraph}{Overall}{99}{section*.68}%
+\contentsline {subsubsection}{\numberline {6.5.8}Scorpio Ascendant}{99}{subsubsection.6.5.8}%
+\contentsline {paragraph}{Sun}{99}{section*.69}%
+\contentsline {paragraph}{Moon}{99}{section*.70}%
+\contentsline {paragraph}{Mars}{99}{section*.71}%
+\contentsline {paragraph}{Mercury}{99}{section*.72}%
+\contentsline {paragraph}{Jupiter}{100}{section*.73}%
+\contentsline {paragraph}{Venus}{100}{section*.74}%
+\contentsline {paragraph}{Saturn}{100}{section*.75}%
+\contentsline {paragraph}{Overall}{100}{section*.76}%
+\contentsline {subsubsection}{\numberline {6.5.9}Sagittarius Ascendant}{100}{subsubsection.6.5.9}%
+\contentsline {paragraph}{Sun}{100}{section*.77}%
+\contentsline {paragraph}{Moon}{100}{section*.78}%
+\contentsline {paragraph}{Mars}{100}{section*.79}%
+\contentsline {paragraph}{Mercury}{101}{section*.80}%
+\contentsline {paragraph}{Jupiter}{101}{section*.81}%
+\contentsline {paragraph}{Venus}{101}{section*.82}%
+\contentsline {paragraph}{Saturn}{101}{section*.83}%
+\contentsline {paragraph}{Overall}{101}{section*.84}%
+\contentsline {subsubsection}{\numberline {6.5.10}Capricorn Ascendant}{101}{subsubsection.6.5.10}%
+\contentsline {paragraph}{Sun}{101}{section*.85}%
+\contentsline {paragraph}{Moon}{101}{section*.86}%
+\contentsline {paragraph}{Mars}{102}{section*.87}%
+\contentsline {paragraph}{Mercury}{102}{section*.88}%
+\contentsline {paragraph}{Jupiter}{102}{section*.89}%
+\contentsline {paragraph}{Venus}{102}{section*.90}%
+\contentsline {paragraph}{Saturn}{102}{section*.91}%
+\contentsline {paragraph}{Overall}{102}{section*.92}%
+\contentsline {subsubsection}{\numberline {6.5.11}Aquarius Ascendant}{102}{subsubsection.6.5.11}%
+\contentsline {paragraph}{Sun}{102}{section*.93}%
+\contentsline {paragraph}{Moon}{102}{section*.94}%
+\contentsline {paragraph}{Mars}{103}{section*.95}%
+\contentsline {paragraph}{Mercury}{103}{section*.96}%
+\contentsline {paragraph}{Jupiter}{103}{section*.97}%
+\contentsline {paragraph}{Venus}{103}{section*.98}%
+\contentsline {paragraph}{Saturn}{103}{section*.99}%
+\contentsline {paragraph}{Overall}{103}{section*.100}%
+\contentsline {subsubsection}{\numberline {6.5.12}Pisces Ascendant}{104}{subsubsection.6.5.12}%
+\contentsline {paragraph}{Sun}{104}{section*.101}%
+\contentsline {paragraph}{Moon}{104}{section*.102}%
+\contentsline {paragraph}{Mars}{104}{section*.103}%
+\contentsline {paragraph}{Mercury}{104}{section*.104}%
+\contentsline {paragraph}{Jupiter}{104}{section*.105}%
+\contentsline {paragraph}{Venus}{104}{section*.106}%
+\contentsline {paragraph}{Saturn}{104}{section*.107}%
+\contentsline {paragraph}{Overall}{104}{section*.108}%
+\contentsline {subsubsection}{\numberline {6.5.13}Summary}{105}{subsubsection.6.5.13}%
+\contentsline {section}{\numberline {7}FUNDAMENTALS OF HOROSCOPE JUDGEMENT}{106}{section.7}%
+\contentsline {subsection}{\numberline {7.1}PLANETS AND SIGNS – FORCES AND FIELDS}{106}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}STRONG AND WEAK ASCENDANT TYPES}{108}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}HOW TO JUDGE THE CHART/ INITIAL CONSIDERATIONS}{108}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}RELATIVE IMPORTANCE OF DIFFERENT FACTORS}{109}{subsection.7.4}%
+\contentsline {subsubsection}{\numberline {7.4.1}ASCENDANT VERSUS MOON SIGN}{109}{subsubsection.7.4.1}%
+\contentsline {subsubsection}{\numberline {7.4.2}HOUSES FROM THE SUN SIGN}{110}{subsubsection.7.4.2}%
+\contentsline {subsubsection}{\numberline {7.4.3}ASPECTS}{110}{subsubsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.4}HOUSE AND SIGN POSITIONS}{110}{subsubsection.7.4.4}%
+\contentsline {subsubsection}{\numberline {7.4.5}BIRTHCHART, NAVAMSHA AND OTHER CHARTS}{110}{subsubsection.7.4.5}%
+\contentsline {subsubsection}{\numberline {7.4.6}STRENGTH OF PLANETS}{111}{subsubsection.7.4.6}%
+\contentsline {subsection}{\numberline {7.5}SYNTHESIS: YOGAS}{112}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}\textbf {Audio Overview of Yogas in Vedic Astrology with Dr. Frawley}}{112}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}GENERAL RULES OF CHART EXAMINATION.}{112}{subsection.7.7}%
+\contentsline {subsection}{\numberline {7.8}HOUSE CONFIGURATIONS}{112}{subsection.7.8}%
+\contentsline {subsubsection}{\numberline {7.8.1}ALL OR MOST PLANETS ABOVE THE HORIZON (HOUSES 7-1)}{113}{subsubsection.7.8.1}%
+\contentsline {subsubsection}{\numberline {7.8.2}ALL OR MOST PLANETS BELOW THE HORIZON (HOUSES 1-7)}{113}{subsubsection.7.8.2}%
+\contentsline {subsubsection}{\numberline {7.8.3}ALL OR MOST PLANETS IN THE EASTERN HALF OF THE CHART}{113}{subsubsection.7.8.3}%
+\contentsline {subsubsection}{\numberline {7.8.4}ALL OR MOST PLANETS IN THE WESTERN HALF OF THE CHART}{113}{subsubsection.7.8.4}%
+\contentsline {subsubsection}{\numberline {7.8.5}OPPOSITE HOUSES}{113}{subsubsection.7.8.5}%
+\contentsline {subsubsubsection}{\numberline {7.8.5.1}HOUSES 1 AND 7}{113}{subsubsubsection.7.8.5.1}%
+\contentsline {subsubsubsection}{\numberline {7.8.5.2}HOUSES 2 AND 8}{114}{subsubsubsection.7.8.5.2}%
+\contentsline {subsubsubsection}{\numberline {7.8.5.3}HOUSES 3 AND 9}{114}{subsubsubsection.7.8.5.3}%
+\contentsline {subsubsubsection}{\numberline {7.8.5.4}HOUSES 4 AND 10}{114}{subsubsubsection.7.8.5.4}%
+\contentsline {subsubsubsection}{\numberline {7.8.5.5}HOUSES 5 AND 11}{114}{subsubsubsection.7.8.5.5}%
+\contentsline {subsubsubsection}{\numberline {7.8.5.6}HOUSES 6 AND 12}{114}{subsubsubsection.7.8.5.6}%
+\contentsline {subsection}{\numberline {7.9}SIGN CONFIGURATIONS}{115}{subsection.7.9}%
+\contentsline {subsubsection}{\numberline {7.9.1}MANY PLANETS IN ONE SIGN}{115}{subsubsection.7.9.1}%
+\contentsline {subsubsection}{\numberline {7.9.2}MANY PLANETS IN EVEN SIGNS}{115}{subsubsection.7.9.2}%
+\contentsline {subsubsection}{\numberline {7.9.3}MANY PLANETS IN ODD SIGNS}{115}{subsubsection.7.9.3}%
+\contentsline {subsubsection}{\numberline {7.9.4}MOST PLANETS IN THE FIRST HALF OF THE ZODIAC}{115}{subsubsection.7.9.4}%
+\contentsline {subsubsection}{\numberline {7.9.5}MOST PLANETS IN THE SECOND HALF OF THE ZODIAC}{115}{subsubsection.7.9.5}%
+\contentsline {subsubsection}{\numberline {7.9.6}PLANETS AND QUARTERS OF THE ZODIAC}{115}{subsubsection.7.9.6}%
+\contentsline {subsubsubsection}{\numberline {7.9.6.1}MOST PLANETS IN THE FIRST QUARTER OF THE ZODIAC (SIGNS 1-3)}{115}{subsubsubsection.7.9.6.1}%
+\contentsline {subsubsubsection}{\numberline {7.9.6.2}MOST PLANETS IN THE SECOND QUARTER OF THE ZODIAC (SIGNS 4-6)}{115}{subsubsubsection.7.9.6.2}%
+\contentsline {subsubsubsection}{\numberline {7.9.6.3}MOST PLANETS IN THE THIRD QUARTER OF THE ZODIAC (SIGNS 7-9)}{116}{subsubsubsection.7.9.6.3}%
+\contentsline {subsubsubsection}{\numberline {7.9.6.4}MOST PLANETS IN THE FOURTH QUARTER OF THE ZODIAC (SIGNS 10-12)}{116}{subsubsubsection.7.9.6.4}%
+\contentsline {subsubsection}{\numberline {7.9.7}PLANETS AND QUALTIES OF SIGNS}{116}{subsubsection.7.9.7}%
+\contentsline {subsubsection}{\numberline {7.9.8}MOST PLANETS IN MOVEABLE OR CARDINAL SIGNS}{116}{subsubsection.7.9.8}%
+\contentsline {subsubsubsection}{\numberline {7.9.8.1}MOST PLANETS IN FIXED SIGNS}{116}{subsubsubsection.7.9.8.1}%
+\contentsline {subsubsubsection}{\numberline {7.9.8.2}MOST PLANETS IN MUTABLE OR DUAL SIGNS}{116}{subsubsubsection.7.9.8.2}%
+\contentsline {subsubsection}{\numberline {7.9.9}PLANETS AND ELEMENTS OF SIGNS}{116}{subsubsection.7.9.9}%
+\contentsline {subsubsubsection}{\numberline {7.9.9.1}MANY PLANETS IN EARTH SIGNS}{116}{subsubsubsection.7.9.9.1}%
+\contentsline {subsubsubsection}{\numberline {7.9.9.2}MANY PLANETS IN WATER SIGNS}{116}{subsubsubsection.7.9.9.2}%
+\contentsline {subsubsubsection}{\numberline {7.9.9.3}MANY PLANETS IN FIRE SIGNS}{117}{subsubsubsection.7.9.9.3}%
+\contentsline {subsubsubsection}{\numberline {7.9.9.4}MANY PLANETS IN AIR SIGNS}{117}{subsubsubsection.7.9.9.4}%
+\contentsline {section}{\numberline {8}BUSINESS ASTROLOGY AND FINANCES IN CHART ANALYSIS}{118}{section.8}%
+\contentsline {subsection}{\numberline {8.1}\textbf {Business, Wealth and Abundance in the Vedic Chart}}{119}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}WEALTH INDICATIONS OF THE HOUSES AND THEIR LORDSHIP}{119}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}INDICATIONS OF HOUSES FOR FINANCIAL GAIN}{121}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}THE MOON AND OUTER VENTURES: ISSUES OF TIMING}{121}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}THE MOON IN SIGNS}{122}{subsection.8.5}%
+\contentsline {paragraph}{THE MOON IN ARIES}{122}{section*.109}%
+\contentsline {paragraph}{THE MOON IN TAURUS}{122}{section*.110}%
+\contentsline {paragraph}{GEMINI MOON}{122}{section*.111}%
+\contentsline {paragraph}{CANCER MOON}{122}{section*.112}%
+\contentsline {paragraph}{LEO MOON}{122}{section*.113}%
+\contentsline {paragraph}{VIRGO MOON}{123}{section*.114}%
+\contentsline {paragraph}{LIBRA MOON}{123}{section*.115}%
+\contentsline {paragraph}{SCORPIO MOON}{123}{section*.116}%
+\contentsline {paragraph}{SAGITTARIUS MOON}{123}{section*.117}%
+\contentsline {paragraph}{CAPRICORN MOON}{123}{section*.118}%
+\contentsline {paragraph}{AQUARIUS MOON}{123}{section*.119}%
+\contentsline {paragraph}{PISCES MOON}{124}{section*.120}%
+\contentsline {subsection}{\numberline {8.6}ASPECTS TO THE MOON}{124}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}THE MOON AS HOUSE LORD}{124}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}THE MOON IN HOUSES}{125}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}JUDGING MOTIVATION}{125}{subsection.8.9}%
+\contentsline {subsubsection}{\numberline {8.9.1}OUTER INDICATIONS OF OTHER PLANETS}{126}{subsubsection.8.9.1}%
+\contentsline {paragraph}{MERCURY }{126}{section*.121}%
+\contentsline {paragraph}{JUPITER}{126}{section*.122}%
+\contentsline {paragraph}{VENUS}{126}{section*.123}%
+\contentsline {paragraph}{SATURN}{126}{section*.124}%
+\contentsline {paragraph}{MARS}{127}{section*.125}%
+\contentsline {paragraph}{THE SUN}{127}{section*.126}%
+\contentsline {paragraph}{RAHU, THE NORTH NODE}{127}{section*.127}%
+\contentsline {paragraph}{KETU, THE SOUTH NODE }{127}{section*.128}%
+\contentsline {subsection}{\numberline {8.10}PLANETARY PERIODS}{127}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}SUMMARY}{128}{subsection.8.11}%
+\contentsline {section}{\numberline {9}RELATIONSHIP ASTROLOGY - CHART COMPARISON: COMPOSITE READINGS}{129}{section.9}%
+\contentsline {subsection}{\numberline {9.1}\textbf {We begin with an audio on Relationship Compatibility with Vamadeva that introduces the factors discussed in detail below}}{129}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}GENERAL ISSUES OF RELATIONSHIP ANALYSIS}{129}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Hindu Versus Western Culture}{129}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}Methods of Judging Compatibility}{129}{subsubsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.3}Human Relationship Potentials}{129}{subsubsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.4}Broader Issues of Compatibility}{130}{subsubsection.9.2.4}%
+\contentsline {subsubsection}{\numberline {9.2.5}Relationship and the Spiritual Life}{130}{subsubsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.3}COMPARATIVE READING OF CHARTS}{131}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}EXAMINATION OF THE INDIVIDUAL BIRTHCHART—}{131}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}ASTROLOGICAL FACTORS}{131}{subsubsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3}PLANETS IN THE SEVENTH HOUSE}{132}{subsubsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.4}ASPECTS TO THE SEVENTH HOUSE AND ITS LORD}{133}{subsubsection.9.3.4}%
+\contentsline {subsubsection}{\numberline {9.3.5}DISPOSITION OF THE LORD OF THE SEVENTH HOUSE}{134}{subsubsection.9.3.5}%
+\contentsline {subsubsection}{\numberline {9.3.6}EFFECTS OF OTHER HOUSES OF RELATIONSHIP}{134}{subsubsection.9.3.6}%
+\contentsline {subsubsection}{\numberline {9.3.7}OTHER PLANETARY POSITIONS}{135}{subsubsection.9.3.7}%
+\contentsline {subsubsubsection}{\numberline {9.3.7.1}SUN AND MOON}{135}{subsubsubsection.9.3.7.1}%
+\contentsline {subsubsubsection}{\numberline {9.3.7.2}MARS AND VENUS}{135}{subsubsubsection.9.3.7.2}%
+\contentsline {subsubsubsection}{\numberline {9.3.7.3}KUJA DOSHA}{135}{subsubsubsection.9.3.7.3}%
+\contentsline {subsubsection}{\numberline {9.3.8}PLANETARY PERIODS}{136}{subsubsection.9.3.8}%
+\contentsline {subsubsubsection}{\numberline {9.3.8.1}Results of Planetary Periods}{136}{subsubsubsection.9.3.8.1}%
+\contentsline {subsubsubsection}{\numberline {9.3.8.2}Varshaphal or Annual Chart}{137}{subsubsubsection.9.3.8.2}%
+\contentsline {subsubsubsection}{\numberline {9.3.8.3}Transits}{137}{subsubsubsection.9.3.8.3}%
+\contentsline {subsection}{\numberline {9.4}INDICATIONS OF INCOMPATIBILITY}{137}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}FACTORS OF DETACHMENT FROM RELATIONSHIP }{137}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}CHARTS DANGEROUS FOR THE PARTNER}{137}{subsubsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.5}2. COMPARISON BETWEEN INDIVIDUAL CHARTS—}{138}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}EXCHANGES BETWEEN PLANETS}{138}{subsubsection.9.5.1}%
+\contentsline {subsubsubsection}{\numberline {9.5.1.1}Sun and Moon}{138}{subsubsubsection.9.5.1.1}%
+\contentsline {subsubsubsection}{\numberline {9.5.1.2}Venus and Mars}{138}{subsubsubsection.9.5.1.2}%
+\contentsline {subsubsubsection}{\numberline {9.5.1.3}Venus, Sun and Moon}{139}{subsubsubsection.9.5.1.3}%
+\contentsline {subsubsubsection}{\numberline {9.5.1.4}Mars, Sun and Moon}{139}{subsubsubsection.9.5.1.4}%
+\contentsline {subsubsubsection}{\numberline {9.5.1.5}Jupiter Exchanges}{139}{subsubsubsection.9.5.1.5}%
+\contentsline {subsubsection}{\numberline {9.5.2}HOUSE INFLUENCES}{139}{subsubsection.9.5.2}%
+\contentsline {subsubsection}{\numberline {9.5.3}THE LUNAR NODES – RAHU AND KETU}{139}{subsubsection.9.5.3}%
+\contentsline {subsubsection}{\numberline {9.5.4}COMPARISON OF MAIN FACTORS}{140}{subsubsection.9.5.4}%
+\contentsline {subsubsection}{\numberline {9.5.5}COMPARISON OF ASCENDANTS}{140}{subsubsection.9.5.5}%
+\contentsline {subsubsection}{\numberline {9.5.6}COMPARISON OF MOONS}{140}{subsubsection.9.5.6}%
+\contentsline {subsubsection}{\numberline {9.5.7}COMPARISON OF SUNS}{140}{subsubsection.9.5.7}%
+\contentsline {subsubsection}{\numberline {9.5.8}COMPARISON OF PLANETS BETWEEN THE TWO CHARTS}{140}{subsubsection.9.5.8}%
+\contentsline {paragraph}{JUPITER}{140}{section*.129}%
+\contentsline {paragraph}{VENUS}{140}{section*.130}%
+\contentsline {paragraph}{MARS}{140}{section*.131}%
+\contentsline {paragraph}{MERCURY}{141}{section*.132}%
+\contentsline {paragraph}{SATURN}{141}{section*.133}%
+\contentsline {subsubsection}{\numberline {9.5.9}PLANETARY PERIODS}{141}{subsubsection.9.5.9}%
+\contentsline {subsubsection}{\numberline {9.5.10}ADDITIONAL CONSIDERATIONS – CHANGE OF CULTURAL ISSUES IN RELATIONSHIP}{141}{subsubsection.9.5.10}%
+\contentsline {subsection}{\numberline {9.6}TRADITIONAL HINDU COMPUTATIVE METHOD OF CHART COMPARISON THE KUTA SYSTEM}{142}{subsection.9.6}%
+\contentsline {subsubsection}{\numberline {9.6.1}1. DINA KUTA}{143}{subsubsection.9.6.1}%
+\contentsline {subsubsection}{\numberline {9.6.2}2. GANA KUTA}{144}{subsubsection.9.6.2}%
+\contentsline {subsubsection}{\numberline {9.6.3}3. MAHENDRA}{144}{subsubsection.9.6.3}%
+\contentsline {subsubsection}{\numberline {9.6.4}4. STRI DIRGHA}{144}{subsubsection.9.6.4}%
+\contentsline {subsubsection}{\numberline {9.6.5}5. YONI KUTA}{144}{subsubsection.9.6.5}%
+\contentsline {subsubsection}{\numberline {9.6.6}NAKSHATRAS AND RULING ANIMALS}{145}{subsubsection.9.6.6}%
+\contentsline {subsubsection}{\numberline {9.6.7}HOSTILE OR INCOMPATIBLE ANIMALS}{145}{subsubsection.9.6.7}%
+\contentsline {subsubsubsection}{\numberline {9.6.7.1}UNFRIENDLY ANIMALS}{145}{subsubsubsection.9.6.7.1}%
+\contentsline {subsubsubsection}{\numberline {9.6.7.2}NEUTRAL ANIMALS}{146}{subsubsubsection.9.6.7.2}%
+\contentsline {subsubsubsection}{\numberline {9.6.7.3}FRIENDLY ANIMALS}{146}{subsubsubsection.9.6.7.3}%
+\contentsline {subsubsubsection}{\numberline {9.6.7.4}SAME ANIMAL}{146}{subsubsubsection.9.6.7.4}%
+\contentsline {subsubsection}{\numberline {9.6.8}6. RASHI KUTA}{147}{subsubsection.9.6.8}%
+\contentsline {subsubsection}{\numberline {9.6.9}7. GRAHA MAITRAM}{148}{subsubsection.9.6.9}%
+\contentsline {subsubsection}{\numberline {9.6.10}8. VASHYA KUTA}{149}{subsubsection.9.6.10}%
+\contentsline {subsubsection}{\numberline {9.6.11}9. RAJJU KUTA}{149}{subsubsection.9.6.11}%
+\contentsline {subsubsection}{\numberline {9.6.12}10. VEDHA/ INCOMPATIBLE NAKSHATRAS}{149}{subsubsection.9.6.12}%
+\contentsline {subsubsection}{\numberline {9.6.13}11. VARNA/ CLASS}{149}{subsubsection.9.6.13}%
+\contentsline {subsubsection}{\numberline {9.6.14}12. NADI KUTA}{150}{subsubsection.9.6.14}%
+\contentsline {subsubsection}{\numberline {9.6.15}SUMMARY}{150}{subsubsection.9.6.15}%
+\contentsline {subsubsection}{\numberline {9.6.16}MEANING OF THE KUTA SYSTEM}{151}{subsubsection.9.6.16}%
+\contentsline {subsubsection}{\numberline {9.6.17}ASTROLOGY AND RELATIONSHIP COUNSELING}{151}{subsubsection.9.6.17}%
+\contentsline {section}{\numberline {10}SHADBALA: THE SIX MEANS OF DETERMINING PLANETARY STRENGTHS AND WEAKNESSES}{153}{section.10}%
+\contentsline {subsection}{\numberline {10.1}\textbf {Audio Overview by Dr. David Frawley on Shadbala}}{153}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}MAIN FACTORS OF SHADBALA}{154}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}1. POSITIONAL STRENGTH}{154}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}A. EXALTATION STRENGTH}{154}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}B. DIVISIONAL STRENGTH}{155}{subsubsection.10.3.2}%
+\contentsline {subsubsection}{\numberline {10.3.3}C. ODD OR EVEN SIGN STRENGTH}{155}{subsubsection.10.3.3}%
+\contentsline {subsubsection}{\numberline {10.3.4}D. ANGULAR STRENGTH}{156}{subsubsection.10.3.4}%
+\contentsline {subsubsection}{\numberline {10.3.5}E. DECANATE STRENGTH}{156}{subsubsection.10.3.5}%
+\contentsline {subsubsection}{\numberline {10.3.6}SUMMARY OF POSITIONAL STRENGTH}{157}{subsubsection.10.3.6}%
+\contentsline {subsection}{\numberline {10.4}2. DIRECTIONAL STRENGTH}{157}{subsection.10.4}%
+\contentsline {subsubsection}{\numberline {10.4.1}3. TEMPORAL STRENGTH}{157}{subsubsection.10.4.1}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.1}A) DAY-NIGHT STRENGTH}{158}{subsubsubsection.10.4.1.1}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.2}B) MONTHLY STRENGTH}{158}{subsubsubsection.10.4.1.2}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.3}C) FOUR HOUR STRENGTH}{159}{subsubsubsection.10.4.1.3}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.4}D-G) LORD OF THE YEAR, MONTH, DAY AND HOUR STRENGTH}{159}{subsubsubsection.10.4.1.4}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.5}H) DECLINATIONAL STRENGTH}{159}{subsubsubsection.10.4.1.5}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.6}I) PLANETARY WAR STRENGTH}{160}{subsubsubsection.10.4.1.6}%
+\contentsline {subsubsubsection}{\numberline {10.4.1.7}SUMMARY OF TEMPORAL STRENGTH}{160}{subsubsubsection.10.4.1.7}%
+\contentsline {subsubsection}{\numberline {10.4.2}4. MOTIONAL STRENGTH}{160}{subsubsection.10.4.2}%
+\contentsline {subsubsection}{\numberline {10.4.3}5. NATURAL STRENGTH}{160}{subsubsection.10.4.3}%
+\contentsline {subsubsection}{\numberline {10.4.4}6. ASPECTUAL STRENGTH}{161}{subsubsection.10.4.4}%
+\contentsline {subsubsection}{\numberline {10.4.5}TOTAL SHADBALA}{161}{subsubsection.10.4.5}%
+\contentsline {subsubsection}{\numberline {10.4.6}GOOD AND BAD RESULTS OF PLANETS (Ishta and Kashta Phala)}{162}{subsubsection.10.4.6}%
+\contentsline {section}{\numberline {11}GLOSSARIES: SANSKRIT AND ENGLISH}{163}{section.11}%
+\contentsline {subsection}{\numberline {11.1}I. SANSKRIT GLOSSARY}{163}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}II. ENGLISH GLOSSARY}{165}{subsection.11.2}%

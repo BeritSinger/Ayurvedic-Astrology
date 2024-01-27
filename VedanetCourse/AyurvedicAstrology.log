@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.15)  26 JAN 2024 19:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.15)  26 JAN 2024 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,23 +525,23 @@ Overfull \hbox (18.3858pt too wide) in paragraph at lines 139--139
 UDY[][] []  
  []
 
-)
+[5] [6] [7] [8])
 \tf@toc=\write4
 \openout4 = `AyurvedicAstrology.toc'.
 
- [5] (./sections/introduction.tex [6]
-<pics/intro1.png, id=837, 1541.76pt x 796.9775pt>
+ [9] (./sections/introduction.tex [10]
+<pics/intro1.png, id=1620, 1541.76pt x 796.9775pt>
 File: pics/intro1.png Graphic file (type png)
 <use pics/intro1.png>
 Package pdftex.def Info: pics/intro1.png  used on input line 34.
 (pdftex.def)             Requested size: 317.9892pt x 164.36647pt.
- [7]
-<pics/intro2.png, id=843, 1281.78876pt x 1014.79124pt>
+ [11]
+<pics/intro2.png, id=1625, 1281.78876pt x 1014.79124pt>
 File: pics/intro2.png Graphic file (type png)
 <use pics/intro2.png>
 Package pdftex.def Info: pics/intro2.png  used on input line 51.
 (pdftex.def)             Requested size: 317.9892pt x 251.74614pt.
- [8 <./pics/intro1.png>] [9 <./pics/intro2.png>]
+ [12 <./pics/intro1.png>] [13 <./pics/intro2.png>]
 Overfull \hbox (17.25755pt too wide) in paragraph at lines 92--92
 |[]\OT1/cmr/bx/n/12 VEDIC AS-TROL-OGY READ-INGS FOR COURSE STU-DENTS| 
  []
@@ -552,7 +552,7 @@ Overfull \hbox (89.09924pt too wide) in paragraph at lines 102--106
 to the in-sti-tute { https://www.facebook.com/americanvedic/
  []
 
-[10]
+[14]
 ./sections/introduction.tex:109: Missing $ inserted.
 <inserted text> 
                 $
@@ -566,101 +566,93 @@ ngfeetakenoutofthepaymentforourtimeinvolved:Youhaveuptothreeyearstoaccessandfin
 ishthecourse:$ 
  []
 
-[11]
+[15]
 Overfull \hbox (3.74377pt too wide) in paragraph at lines 127--127
 |[]\OT1/cmr/bx/n/12 INDIAN NA-TIONAL TELE-VI-SION (DOOR DAR-SHAN) IN-
  []
 
-) [12] (./sections/background.tex [13] [14] [15] [16] [17] [18] [19] [20]
-[21] [22]
-<pics/overview1.png, id=910, 1176.395pt x 758.835pt>
+) [16] (./sections/background.tex [17] [18] [19] [20] [21] [22] [23] [24]
+[25] [26]
+<pics/overview1.png, id=1694, 1176.395pt x 758.835pt>
 File: pics/overview1.png Graphic file (type png)
 <use pics/overview1.png>
 Package pdftex.def Info: pics/overview1.png  used on input line 398.
 (pdftex.def)             Requested size: 317.9892pt x 205.11977pt.
- [23]
-
-LaTeX Warning: File `pics/overview2.png' not found on input line 403.
-
-
-./sections/background.tex:403: Package pdftex.def Error: File `pics/overview2.p
-ng' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.403 ...[width=0.8\textwidth]{pics/overview2.png}
-                                                  
-? 
-) [24 <./pics/overview1.png>] (./sections/overview.tex [25] [26]
+ [27]
+<pics/overview2.png, id=1699, 1176.395pt x 758.835pt>
+File: pics/overview2.png Graphic file (type png)
+<use pics/overview2.png>
+Package pdftex.def Info: pics/overview2.png  used on input line 403.
+(pdftex.def)             Requested size: 317.9892pt x 205.11977pt.
+) [28 <./pics/overview1.png> <./pics/overview2.png>]
+(./sections/overview.tex [29] [30]
 Overfull \hbox (13.95091pt too wide) in paragraph at lines 87--88
 \OT1/cmr/m/n/10 liv-ing crea-tures. In San-skrit it is called jy-otisha, which 
 means the \sci-ence of light"|specifically,
  []
 
-[27] [28] [29] [30]
+[31] [32] [33] [34]
 ./sections/overview.tex:180: Misplaced alignment tab character &.
 l.180 Choosing &
                  Working with a Jyotisha Shastri
 ? 
-[31] [32] [33] [34] [35] [36] [37]) [38] (./sections/foundation1.tex [39]
-[40]
+[35] [36] [37] [38] [39] [40] [41]) [42] (./sections/foundation1.tex [43]
+[44]
 Overfull \hbox (5.54362pt too wide) in paragraph at lines 64--66
 [][]$\OT1/cmr/m/n/10 https : / / www . vedanet . com / the-[]shiva-[]kali-[]axi
 s-[]in-[]vedic-[]astrology-[]and-[]its-[]alignment-[]in-[]2020/$[][] 
  []
 
-[41] [42] [43] [44] [45] [46] [47] [48]
-<pics/Aries.png, id=1023, 547.04375pt x 602.25pt>
+[45] [46] [47] [48] [49] [50] [51] [52]
+<pics/Aries.png, id=1806, 547.04375pt x 602.25pt>
 File: pics/Aries.png Graphic file (type png)
 <use pics/Aries.png>
 Package pdftex.def Info: pics/Aries.png  used on input line 337.
 (pdftex.def)             Requested size: 198.7425pt x 218.79478pt.
-<pics/Taurus.png, id=1024, 439.6425pt x 295.1025pt>
+<pics/Taurus.png, id=1807, 439.6425pt x 295.1025pt>
 File: pics/Taurus.png Graphic file (type png)
 <use pics/Taurus.png>
 Package pdftex.def Info: pics/Taurus.png  used on input line 347.
 (pdftex.def)             Requested size: 198.7425pt x 133.39827pt.
- [49 <./pics/Aries.png>]
-<pics/Gemini.png, id=1030, 439.6425pt x 295.1025pt>
+ [53 <./pics/Aries.png>]
+<pics/Gemini.png, id=1812, 439.6425pt x 295.1025pt>
 File: pics/Gemini.png Graphic file (type png)
 <use pics/Gemini.png>
 Package pdftex.def Info: pics/Gemini.png  used on input line 357.
 (pdftex.def)             Requested size: 198.7425pt x 133.39827pt.
-<pics/Cancer.png, id=1031, 439.6425pt x 295.1025pt>
+<pics/Cancer.png, id=1813, 439.6425pt x 295.1025pt>
 File: pics/Cancer.png Graphic file (type png)
 <use pics/Cancer.png>
 Package pdftex.def Info: pics/Cancer.png  used on input line 368.
 (pdftex.def)             Requested size: 198.7425pt x 133.39827pt.
-<pics/Leo.png, id=1032, 439.6425pt x 295.1025pt>
+<pics/Leo.png, id=1814, 439.6425pt x 295.1025pt>
 File: pics/Leo.png Graphic file (type png)
 <use pics/Leo.png>
 Package pdftex.def Info: pics/Leo.png  used on input line 381.
 (pdftex.def)             Requested size: 198.7425pt x 133.39827pt.
- [50 <./pics/Taurus.png> <./pics/Gemini.png> <./pics/Cancer.png>]
-<pics/Virgo.png, id=1037, 427.5975pt x 590.205pt>
+ [54 <./pics/Taurus.png> <./pics/Gemini.png> <./pics/Cancer.png>]
+<pics/Virgo.png, id=1819, 427.5975pt x 590.205pt>
 File: pics/Virgo.png Graphic file (type png)
 <use pics/Virgo.png>
 Package pdftex.def Info: pics/Virgo.png  used on input line 391.
 (pdftex.def)             Requested size: 198.7425pt x 274.3164pt.
-<pics/Libra.png, id=1038, 445.665pt x 599.23875pt>
+<pics/Libra.png, id=1820, 445.665pt x 599.23875pt>
 File: pics/Libra.png Graphic file (type png)
 <use pics/Libra.png>
 Package pdftex.def Info: pics/Libra.png  used on input line 404.
 (pdftex.def)             Requested size: 198.7425pt x 267.23189pt.
- [51 <./pics/Leo.png> <./pics/Virgo.png>]
-<pics/Scorpio.png, id=1043, 445.665pt x 599.23875pt>
+ [55 <./pics/Leo.png> <./pics/Virgo.png>]
+<pics/Scorpio.png, id=1827, 445.665pt x 599.23875pt>
 File: pics/Scorpio.png Graphic file (type png)
 <use pics/Scorpio.png>
 Package pdftex.def Info: pics/Scorpio.png  used on input line 418.
 (pdftex.def)             Requested size: 198.7425pt x 267.23189pt.
-<pics/Sagitarius.png, id=1044, 493.845pt x 552.0625pt>
+<pics/Sagitarius.png, id=1828, 493.845pt x 552.0625pt>
 File: pics/Sagitarius.png Graphic file (type png)
 <use pics/Sagitarius.png>
 Package pdftex.def Info: pics/Sagitarius.png  used on input line 430.
 (pdftex.def)             Requested size: 198.7425pt x 222.16888pt.
- [52 <./pics/Libra.png> <./pics/Scorpio.png>]
+ [56 <./pics/Libra.png> <./pics/Scorpio.png>]
 
 LaTeX Warning: File `pics/Capricorn.png' not found on input line 442.
 
@@ -675,13 +667,13 @@ Type  H <return>  for immediate help.
 l.442 ...[width=0.5\textwidth]{pics/Capricorn.png}
                                                   
 ? 
-<pics/Aquarius.png, id=1049, 435.6275pt x 593.21625pt>
+<pics/Aquarius.png, id=1833, 435.6275pt x 593.21625pt>
 File: pics/Aquarius.png Graphic file (type png)
 <use pics/Aquarius.png>
 Package pdftex.def Info: pics/Aquarius.png  used on input line 455.
 (pdftex.def)             Requested size: 198.7425pt x 270.63795pt.
-[53 <./pics/Sagitarius.png>]
-<pics/Pisces.png, id=1054, 702.625pt x 503.8825pt>
+[57 <./pics/Sagitarius.png>]
+<pics/Pisces.png, id=1839, 702.625pt x 503.8825pt>
 File: pics/Pisces.png Graphic file (type png)
 <use pics/Pisces.png>
 Package pdftex.def Info: pics/Pisces.png  used on input line 467.
@@ -691,8 +683,8 @@ Overfull \hbox (12.92056pt too wide) in paragraph at lines 478--478
 |[]\OT1/cmr/bx/n/10 COURSE WORK-BOOK FOR EX-AM-I-NA-TION OF SOUTH AND NORTH
  []
 
-) [54 <./pics/Aquarius.png> <./pics/Pisces.png>] [55]
-(./sections/foundation2.tex [56] [57] [58] [59] [60]
+) [58 <./pics/Aquarius.png> <./pics/Pisces.png>] [59]
+(./sections/foundation2.tex [60] [61] [62] [63] [64]
 Overfull \hbox (30.64543pt too wide) in paragraph at lines 229--257
 \OT1/cmr/m/n/10 UTTARASHADHA, 26 40 Sagit-tar-ius|10 00 Capri-corn: \The later 
 vic-tory". De-ity|Vishwedevas,
@@ -715,19 +707,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--257
 
  []
 
-[61] [62] [63] [64]) [65] (./sections/foundation3.tex
+[65] [66] [67] [68]) [69] (./sections/foundation3.tex
 Overfull \hbox (27.01598pt too wide) in paragraph at lines 8--9
 \OT1/cmr/m/n/10 sev-en-fold (sap-tamsha), nine-fold (navamsha), ten-fold (dasha
 msha) and twelve-fold (dwadashamsha). 
  []
 
-[66] [67]
+[70] [71]
 Overfull \hbox (1.00775pt too wide) in paragraph at lines 89--89
 |[]\OT1/cmr/bx/n/10 MUHURTA, AS-TRO-LOG-I-CAL FORE-CAST-ING AND MUN-DANE AS-
  []
 
-[68] [69] [70] [71] [72] [73]) [74] (./sections/panetary_types.tex
-<pics/planetary_types-1.png, id=1144, 346.29375pt x 274.02374pt>
+[72] [73] [74] [75] [76] [77]) [78] (./sections/panetary_types.tex
+<pics/planetary_types-1.png, id=1928, 346.29375pt x 274.02374pt>
 File: pics/planetary_types-1.png Graphic file (type png)
 <use pics/planetary_types-1.png>
 Package pdftex.def Info: pics/planetary_types-1.png  used on input line 22.
@@ -737,40 +729,351 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 
  []
 
-[75 <./pics/planetary_types-1.png>] [76] [77] [78] [79] [80] [81]) [82]
-[83] (./sections/rulership.tex
+[79 <./pics/planetary_types-1.png>] [80] [81] [82] [83] [84] [85]) [86]
+[87] (./sections/rulership.tex
 Overfull \hbox (7.4059pt too wide) in paragraph at lines 1--1
 |[]\OT1/cmr/bx/n/14.4 THE TWELVE HOUSES AND HOUSE RULER-SHIP,
  []
 
-[84]
+[88]
 Underfull \hbox (badness 10000) in paragraph at lines 115--127
 
  []
 
-[85] [86]
+[89] [90]
 Overfull \hbox (10.00612pt too wide) in paragraph at lines 145--145
 |[]\OT1/cmr/bx/n/12 PLANETS BY AS-CEN-DANT REL-A-TIVE TO HOUSE RULER-
  []
 
-[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
+[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
 Overfull \hbox (18.56409pt too wide) in paragraph at lines 747--748
  []\OT1/cmr/bx/n/10 Saturn[] \OT1/cmr/m/n/10 Sat-urn, as ruler of houses 1 and 
 12, shows the Aquar-ian ten-dency to-wards self[]negation.
  []
 
-[99] [100]) [101] (./AyurvedicAstrology.aux)
+[103] [104]) [105] (./sections/judgment.tex
+Overfull \hbox (8.74274pt too wide) in paragraph at lines 1--1
+|[]\OT1/cmr/bx/n/14.4 FUNDAMENTALS OF HORO-SCOPE JUDGE-MENT| 
+ []
+
+[106] [107] [108] [109] [110] [111] [112]
+Overfull \hbox (2.22238pt too wide) in paragraph at lines 324--324
+|[]\OT1/cmr/bx/n/10 ALL OR MOST PLAN-ETS IN THE WEST-ERN HALF OF THE CHART| 
+ []
+
+[113] [114] [115] [116]) [117] (./sections/business.tex
+Overfull \hbox (28.00586pt too wide) in paragraph at lines 2--2
+|[]\OT1/cmr/bx/n/14.4 BUSINESS AS-TROL-OGY AND FI-NANCES IN CHART
+ []
+
+<pics/business1.png, id=2204, 728.7225pt x 1027.84pt>
+File: pics/business1.png Graphic file (type png)
+<use pics/business1.png>
+Package pdftex.def Info: pics/business1.png  used on input line 26.
+(pdftex.def)             Requested size: 317.9892pt x 448.50262pt.
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[119 <./pics/business1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+[120] [121] [122] [123] [124]
+./sections/business.tex:243: Misplaced alignment tab character &.
+l.243 ...gular or trine houses – 1, 4, 5, 7, 9 &
+                                                   10 – as these give it s...
+
+? 
+./sections/business.tex:247: Misplaced alignment tab character &.
+l.247 ...ocated in houses of income like 2, 5, 9 &
+                                                   11. It is excellent if it...
+
+? 
+[125]
+./sections/business.tex:276: Misplaced alignment tab character &.
+l.276 ... located in houses 1, 2, 4, 5, 7, 9, 10 &
+                                                   11. Mercury is a very str...
+
+? 
+[126] [127]) [128] (./sections/relationship1.tex
+Overfull \hbox (11.27606pt too wide) in paragraph at lines 2--2
+|[]\OT1/cmr/bx/n/14.4 RELATIONSHIP AS-TROL-OGY - CHART COM-PAR-
+ []
+
+[129] [130] [131] [132] [133] [134]
+./sections/relationship1.tex:266: Misplaced alignment tab character &.
+l.266 ... occurs if Mars is in houses 1, 4, 7, 8 &
+                                                   12.
+? 
+[135] [136] [137] [138] [139] [140]) [141] (./sections/relationship2.tex
+Overfull \hbox (26.21593pt too wide) in paragraph at lines 2--2
+|[]\OT1/cmr/bx/n/12 TRADITIONAL HINDU COM-PU-TA-TIVE METHOD OF CHART
+ []
+
+<pics/relationship1.png, id=2332, 462.72874pt x 702.625pt>
+File: pics/relationship1.png Graphic file (type png)
+<use pics/relationship1.png>
+Package pdftex.def Info: pics/relationship1.png  used on input line 24.
+(pdftex.def)             Requested size: 317.9892pt x 482.8498pt.
+[142] [143 <./pics/relationship1.png>] [144] [145]
+<pics/relationship2.png, id=2350, 714.67pt x 1027.84pt>
+File: pics/relationship2.png Graphic file (type png)
+<use pics/relationship2.png>
+Package pdftex.def Info: pics/relationship2.png  used on input line 203.
+(pdftex.def)             Requested size: 317.9892pt x 457.33247pt.
+ [146] [147 <./pics/relationship2.png>] [148]
+Overfull \hbox (8.96042pt too wide) in paragraph at lines 297--307
+\OT1/cmr/m/n/10 Bha-rani, Pushya, Purva Phal-guni, Anu-radha, Pur-vashadha, Ut-
+tara Bhadra NAVEL{ Udarara-
+ []
+
+
+Overfull \hbox (4.93265pt too wide) in paragraph at lines 297--307
+\OT1/cmr/m/n/10 jju Krit-tika, Punar-vasu, Ut-tara Phal-guni, Vishakha, Ut-tara
+shadha, Purva Bhadra THROAT{
+ []
+
+[149]
+Overfull \hbox (0.18152pt too wide) in paragraph at lines 355--361
+\OT1/cmr/m/n/10 radha, Pur-vashadha, Dhan-ishta, Ut-tara Bhadra KAPHA Krit-tika
+, Ro-hini, Ash-le-sha, Magha,
+ []
+
+[150] [151]) [152] (./sections/shadbala.tex
+Overfull \hbox (34.04103pt too wide) in paragraph at lines 1--1
+\OT1/cmr/bx/n/14.4 ING PLAN-E-TARY STRENGTHS AND WEAK-NESSES| 
+ []
+
+
+Overfull \hbox (2.96025pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/10 Shadbala is an elab-o-rate sys-tem of com-pu-ta-tions to aid 
+in de-ter-min-ing plan-e-tary strengths
+ []
+
+[153] [154] [155]
+Overfull \hbox (60.23808pt too wide) in paragraph at lines 185--190
+ [] 
+ []
+
+[156] [157] [158]
+Overfull \hbox (12.61502pt too wide) in paragraph at lines 334--334
+|[]\OT1/cmr/bx/n/10 D-G) LORD OF THE YEAR, MONTH, DAY AND HOUR STRENGTH| 
+ []
+
+[159] [160] [161]) [162] (./sections/glossary.tex
+Overfull \hbox (28.07149pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10 atyakara|Signficator of friend or con-fi-dant Amavasya|the day 
+of the new Moon Amsha|division,
+ []
+
+
+Overfull \hbox (36.82141pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10 mas|cadent houses Ardra|sixth Naksha-tra Artha|wealth or ma-te-
+rial goals Ash-takavarga|system
+ []
+
+
+Overfull \hbox (18.21033pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10 man|Divine Self or Soul At-makaraka|significator of in-ner Self
+ or Atma Ayanamsha|difference
+ []
+
+
+Overfull \hbox (1.48805pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 chart Bha-rani|second Naksha-tra in zo-diac Bhava|house Bhava c
+hakra|house chart Bhava
+ []
+
+
+Overfull \hbox (32.34927pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 mad-hya|midpoint of house Bhava sandhi|transitional point be-tw
+een houses Bhava bala|strength
+ []
+
+
+Overfull \hbox (0.18248pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 class of peo-ple Bri-has-pati|Jupiter Bud-dhi|intelligence, rea
+-son Budha|Mercury (not Bud-
+ []
+
+
+Overfull \hbox (35.46043pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 tamsa|divisional fourth chart Chaturvimshamsha|divisional twent
+y-fourth Chesta bala|motional
+ []
+
+
+Overfull \hbox (66.3493pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/10 Dasha|major plan-e-tary pe-riod Dashami|tenth Tithi of the mo
+on Dashamsha or Dashamsa|divisional
+ []
+
+
+Overfull \hbox (16.66858pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/10 tenth Devas|Gods Dhanus|Sagittarius Dharma|career, honor or sta
+-tus Dig bala|directional
+ []
+
+
+Overfull \hbox (12.5714pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 lated to Jupiter Graha|planet, also de-mon Guru|Jupiter, spir-i
+-tual guide Hamsa Yoga|Maha
+ []
+
+
+Overfull \hbox (0.68246pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 Pu-rusha Yoga of Jupiter Hasta|thirteenth Naksha-tra Ha-vana|sa
+me as homa Homa|Vedic
+ []
+
+[163]
+Overfull \hbox (6.98807pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 Mars Kuja Dosha|difficult place-ments of Mars for mar-riage Kum
+bha|Aquarius Kuta|point
+ []
+
+
+Overfull \hbox (19.67784pt too wide) in paragraph at lines 18--19
+[]\OT1/cmr/m/n/10 Lakshmi|Goddess of for-tune and beauty; re-lated to Venus Lag
+na|Ascendant Magha|tenth
+ []
+
+
+Overfull \hbox (22.01585pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 na-tions that give strong per-son-al-i-ties Malavya Yoga|Maha P
+u-rusha Yoga of Venus Manas|mind
+ []
+
+
+Overfull \hbox (5.98686pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 mother Me-sha|Aries Mi-hira, Varaha|great Vedic As-trol-ogy of 
+around 500 AD Mina|Pisces
+ []
+
+
+Overfull \hbox (23.69649pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 Mithuna|Gemini Mok-sha|liberation Mri-gashiras or Mri-gashir-sh
+a|fifth Naksha-tra Muhurta|a
+ []
+
+
+Overfull \hbox (41.0807pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 thir-ty-fold di-vi-sion of the day (forty-eight min-utes); also
+ refers to elec-tional as-trol-ogy Mula|nineteenth
+ []
+
+
+Overfull \hbox (43.21034pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/10 Naisargika bala|natural strength Naksha-tras|27 lu-nar con-st
+el-la-tions or as-ter-isms Navami|ninth
+ []
+
+
+Overfull \hbox (30.46034pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 manac Parashara|father of Vedic As-trol-ogy, au-thor of main sy
+s-tem used Pitri Karaka|Significator
+ []
+
+
+Overfull \hbox (3.2659pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 tra Purva Bhadrapada|twenty-fifth Naksha-tra Purva Phal-guni|el
+eventh Naksha-tra Pushya
+ []
+
+
+Overfull \hbox (1.87694pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Revati|twenty-seventh Naksha-tra Ro-hini|fourth Naksha-tra Ruch
+aka Yoga|Mahapurusha
+ []
+
+
+Overfull \hbox (50.21042pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 seven var-gas or di-vi-sional charts Sar-vash-takavarga|total A
+sh-takavarga points of signs Sattvic|spiritual
+ []
+
+
+Overfull \hbox (19.57143pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 strengths and weak-ness Shad-var-gas|six main di-vi-sional char
+ts Shani or Shanaishcharya|Saturn
+ []
+
+
+Overfull \hbox (40.54376pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Shaha Yoga|Maha Pu-rusha Yoga of Sat-urn Shastyamsha|divisional
+ six-ti-eth Shatabhishak|twenty-
+ []
+
+
+Overfull \hbox (13.59921pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 second Naksha-tra Shravishta|twenty-third Naksha-tra Shukra|Ven
+us Sid-dhamsha|divisional
+ []
+
+[164]
+Overfull \hbox (21.93245pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 Tithi of the moon Treta Yuga|third or sil-ver age Trikona|trine
+ houses Trimshamsha|divisional
+ []
+
+
+Overfull \hbox (39.29362pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/10 Upachaya|houses 3, 6, 10, 11 Uttarashada|twenty-first Naksha-
+tra Ut-tara Bhadrapada|twenty-
+ []
+
+
+Overfull \hbox (79.71037pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/10 and Navamsha Vedanta|Vedic phi-los-o-phy of Self-realization Ve
+das|Vedic scrip-tures Vimshamsha|divisional
+ []
+
+
+Overfull \hbox (22.37697pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/10 twen-ti-eth Vimshopak|varga cal-cu-la-tion of plan-e-tary stren
+gth and weak-ness Vishakha|sixteenth
+ []
+
+) [165] [166] (./AyurvedicAstrology.aux)
 Package rerunfilecheck Info: File `AyurvedicAstrology.out' has not changed.
-(rerunfilecheck)             Checksum: 3EB18BB08EF7B69B934FF2DD8A05AE86;35497.
+(rerunfilecheck)             Checksum: 9DCA457233F715CCEA6F17D5871EF914;69240.
  ) 
 Here is how much of TeX's memory you used:
- 12672 strings out of 477476
- 199998 string characters out of 5824244
- 1871388 words of memory out of 5000000
- 32317 multiletter control sequences out of 15000+600000
+ 13087 strings out of 477476
+ 207368 string characters out of 5824244
+ 1872388 words of memory out of 5000000
+ 32473 multiletter control sequences out of 15000+600000
  521263 words of font info for 67 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,6n,76p,2158b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,76p,3086b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/beritsinger/Library/texlive/2023basic/texmf-var/fonts/pk/ljfour/jkna
 ppen/ec/tcrm1200.600pk></usr/local/texlive/2023basic/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1
@@ -779,10 +1082,10 @@ ype1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023basic/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023basic/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023basic/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AyurvedicAstrology.pdf (101 pages, 2508682 bytes).
+Output written on AyurvedicAstrology.pdf (166 pages, 3393412 bytes).
 PDF statistics:
- 1483 PDF objects out of 1728 (max. 8388607)
- 1338 compressed objects within 14 object streams
- 369 named destinations out of 1000 (max. 500000)
- 1324 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2606 PDF objects out of 2984 (max. 8388607)
+ 2382 compressed objects within 24 object streams
+ 611 named destinations out of 1000 (max. 500000)
+ 2544 words of extra memory for PDF output out of 10000 (max. 10000000)
 
